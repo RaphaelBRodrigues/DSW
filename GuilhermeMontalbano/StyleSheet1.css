@@ -1,0 +1,161 @@
+﻿body {
+}
+.logo {
+    background-image: url('Imagens/Logo.JPG');
+    width:260px;
+    height:84px;
+}
+.home{
+    margin-right:22px;
+    color:#cf9455;
+    
+    margin-top:-54px;
+    margin-left:360px;
+
+}
+.aboutus{
+    margin-left:500px;
+    float:left;
+    margin-top:-20px;
+    width:80px;
+}
+.legal{
+    margin-left:660px;
+    float:left;
+     margin-top:-20px;
+     width:100px;
+}
+.news{
+    margin-left:840px;
+    float:left;
+     margin-top:-20px;
+}
+.contact{
+    margin-left:960px;
+    float:left;
+     margin-top:-20px;
+}
+.botao{
+    color:#ffffff;
+    width:180px;
+    height:40px;
+    padding-top:15px;
+    padding-left:10px;
+    font-family:Arial;
+    background-color:#cf9455;
+    margin-top:-40px;
+    margin-left:1100px;
+    font-weight:bold;    
+}
+.img {
+    margin-top: 20px;
+   background-color:#c4c7cc;
+    height: 603px;
+    width: 1353px;
+    margin-left: -8px;
+    background-image: url('Imagens/banner-um-time-de-advogados.jpg');
+}
+.txtimg {
+    color: #4a4f55;
+    margin-top: -500px;
+    margin-left: 180px;
+    font-size: 110px;
+    font-family: Arial;
+    color:#f2e5e5;
+    width: 1000px;
+}
+.fees{
+    color:#fffffa;
+    margin-top:-0px;
+    margin-left:190px;
+    font-size:60px;
+    width:1000px;
+    margin-bottom:200px;
+   
+}
+.icones {
+    background-image: url('Imagens/Icones.JPG');
+    height:130px;
+    width:1058px;
+    margin-left:180px;
+    margin-top:100px;
+}
+.titulo1{
+    width:180px;
+    font-size:30px;
+    margin-left:170px;
+}
+.titulo2{
+    width:200px;
+    font-size:30px;
+    margin-left:470px;
+    margin-top:-37px;
+}
+.titulo3{
+    width:200px;
+    font-size:30px;
+    margin-left:750px;
+    margin-top:-37px;
+}
+.titulo4{
+    width:200px;
+    font-size:30px;
+    margin-left:180px;
+    margin-left:1050px;
+    margin-top:-37px;
+}
+.texto1{
+    margin-top:15px;
+    color:#75757c;
+    font-size:17px;
+    margin-left:150px;
+    
+    width:250px;
+}
+.texto2{
+    margin-top:15px;
+    color:#75757c;
+    font-size:17px;
+    margin-left:450px;
+    margin-top:-120px;
+    width:250px;
+}
+.texto3{
+    margin-top:15px;
+    color:#75757c;
+    font-size:17px;
+    margin-left:750px;
+    margin-top:-100px;
+    width:250px;
+}
+.texto4{
+    margin-top:15px;
+    color:#75757c;
+    font-size:17px;
+    margin-left:1050px;
+    margin-top:-100px;
+    width:250px;
+}
+.imgg {
+    margin-top:80px;
+    width: 800px;
+    background-image: url('Imagens/tap.jpg');
+    height: 500px;
+    margin-left:-10px;
+}
+.jus{
+    color:#585c62;
+    font-weight:bold;
+    font-size:40px;
+    font-family:Calibri;
+    width:480px;
+    margin-top:-400px;
+    margin-left:840px;
+     
+}
+.textao{
+    color:#808087;
+    margin-left:840px;
+    width:500px;
+    font-size:19px;
+}

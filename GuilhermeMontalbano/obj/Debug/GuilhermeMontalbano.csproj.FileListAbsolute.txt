@@ -1,0 +1,99 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.pdb
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\ApplicationInsights.config
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\csc.exe
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\vbc.exe
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\VBCSCompiler.exe
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.dll.config
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.pdb
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Web.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.ApplicationInsights.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Web.xml
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.ApplicationInsights.xml
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.csprojResolveAssemblyReference.cache
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.dll
+C:\Users\raphael.rodrigues.a3\Desktop\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.pdb
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\ApplicationInsights.config
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\csc.exe
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\System.Collections.Immutable.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\System.Reflection.Metadata.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\vbc.exe
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\VBCSCompiler.exe
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\roslyn\VBCSCompiler.exe.config
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.dll.config
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\GuilhermeMontalbano.pdb
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Agent.Intercept.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.DependencyCollector.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Web.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.WindowsServer.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.ApplicationInsights.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.DependencyCollector.xml
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.Web.xml
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.AI.WindowsServer.xml
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.ApplicationInsights.xml
+M:\GuilhermeMontalbano\GuilhermeMontalbano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.csprojResolveAssemblyReference.cache
+M:\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.dll
+M:\GuilhermeMontalbano\GuilhermeMontalbano\obj\Debug\GuilhermeMontalbano.pdb
