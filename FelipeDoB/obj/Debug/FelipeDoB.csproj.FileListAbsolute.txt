@@ -1,0 +1,66 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\FelipeDoB.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\FelipeDoB.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\FelipeDoB.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\obj\Debug\FelipeDoB.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\obj\Debug\FelipeDoB.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\FelipeDoB\FelipeDoB\obj\Debug\FelipeDoB.pdb
+M:\DSW\FelipeDoB\FelipeDoB\bin\ApplicationInsights.config
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\csc.exe
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\vbc.exe
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\VBCSCompiler.exe
+M:\DSW\FelipeDoB\FelipeDoB\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW\FelipeDoB\FelipeDoB\bin\FelipeDoB.dll.config
+M:\DSW\FelipeDoB\FelipeDoB\bin\FelipeDoB.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\FelipeDoB.pdb
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.Web.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.ApplicationInsights.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.Web.xml
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.ApplicationInsights.xml
+M:\DSW\FelipeDoB\FelipeDoB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW\FelipeDoB\FelipeDoB\obj\Debug\FelipeDoB.csprojResolveAssemblyReference.cache
+M:\DSW\FelipeDoB\FelipeDoB\obj\Debug\FelipeDoB.dll
+M:\DSW\FelipeDoB\FelipeDoB\obj\Debug\FelipeDoB.pdb

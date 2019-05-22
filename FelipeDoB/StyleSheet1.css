@@ -1,0 +1,401 @@
+﻿body {
+}
+.logo {
+    background-image: url('Imagens/Vigo_Logo-BL.png');
+    height:186px;
+    width:745px;
+    background-repeat:no-repeat;
+    background-size:200px;
+}
+.supple{
+    margin-top:-170px;
+    margin-left:550px;
+    color:#000;
+    font-family:Calibri;
+    font-size:18px;
+
+}
+.feat{
+    margin-top:-21px;
+    margin-left:700px;
+    color:#000;
+    font-family:Calibri;
+    font-size:18px;
+
+}
+.ing{
+    margin-top:-22px;
+    margin-left:800px;
+    color:#000;
+    font-family:Calibri;
+    font-size:18px;
+
+}
+.pri{
+    margin-top:-22px;
+    margin-left:910px;
+    color:#000;
+    font-family:Calibri;
+    font-size:18px;
+
+}
+.lat{
+    margin-top:-22px;
+    margin-left:980px;
+    color:#000;
+    font-family:Calibri;
+    font-size:18px;
+
+}
+.cont{
+    margin-top:-22px;
+    margin-left:1100px;
+    color:#000;
+    font-family:Calibri;
+    font-size:18px;
+
+}
+.botao{
+    background-color:#2eca38;
+    height:40px;
+    width:120px;
+    border-radius:10px;
+    color:#ffffff;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:25px;
+    box-sizing:padding-box;
+    margin-left:1200px;
+    padding:15px 0px 0px 25px;
+    margin-top:-30px;
+}
+.dea{
+    color:#333740;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:60px;
+    margin-top:150px;
+}
+.vigo{
+    font-family:Calibri;
+    font-weight:bold;
+    color:#2eca38;
+    font-size:70px;
+}
+.txt{
+    font-size:15px;
+    font-family:Calibri;
+    font-weight:bold;
+    color:#594e4e
+}
+.view{
+    background-color:#2eca38;
+    height:40px;
+    width:210px;
+    border-radius:10px;
+    color:#ffffff;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:25px;
+    box-sizing:padding-box;
+    margin-left:00px;
+    padding:15px 0px 0px 15px;
+    margin-top:30px;
+}
+.cor{
+    background-color:#2eca38;
+    margin-top:100px;
+    height:200px;
+    width:1348px;
+}
+.img1 {
+    background-image: url('Imagens/whey.JPG');
+    background-repeat: no-repeat;
+   margin-top:-300px;
+   margin-left:700px;
+    height: 390px;
+    width: 540px;
+    background-color: #2eca38;
+}
+.img2 {
+    margin-top:-300px;
+    height:300px;
+    width:186px;
+    margin-left:10px;
+    background-image: url('Imagens/call-to-action-img-186x300.png');
+}
+.get{
+    background-color:#2eca38;
+    font-weight:bold;
+    color:#ffffff;
+    font-family:'Script MT';
+    font-size:25px;
+    margin-left:400px;
+    margin-top:-180px;
+}
+.sup{
+    font-family:Calibri;
+  
+    color:#fff;
+    margin-left:400px;
+    font-size:40px;
+}
+.bot {
+    background-color: #fff;
+    height: 40px;
+    width: 210px;
+    border-radius: 10px;
+    color: #2eca38;;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    box-sizing: padding-box;
+    margin-left: 1110px;
+    padding: 15px 0px 0px 15px;
+    margin-top: -100px;
+}
+.four{
+     font-weight:bold;
+    color:#2eca38;
+    font-family:'Script MT';
+    font-size:25px;
+    text-align:center;
+    margin-top:150px;
+}
+.sup2{
+    font-weight:bold;
+    margin-top:10px;
+    font-family:Calibri;
+    font-size:30px;
+    text-align:center;
+}
+.verde{
+    background-color:#2eca38;
+    height:5px;margin-top:30px;
+    width:80px;
+    margin-left:620px;
+}
+.png1 {
+    margin-top:70px;
+    margin-left:150px;
+    width:60px;
+    height:60px;
+    background-image: url('Imagens/features-icon-4.png');
+}
+.png2 {
+    margin-top:-60px;
+    margin-left: 640px;
+    width: 60px;
+    background-image: url('Imagens/features-icon-3.png');
+    height: 60px;
+}
+.png3 {
+    margin-top: -60px;
+    margin-left: 1100px;
+    width: 60px;
+    background-image: url('Imagens/features-icon-2.png');
+    height: 60px;
+}
+/*.png4 {
+    margin-top: -60px;
+    margin-left: 800px;
+    width: 60px;
+    background-image: url('Imagens/features-icon-1.png');
+    height: 60px;
+}*/
+.titulo1{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:27px;
+    margin-top:10px;
+    margin-left:100px;
+}
+.titulo2{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:27px;
+    margin-top:-33px;
+    margin-left:580px;
+
+}
+.titulo3{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:27px;
+    margin-top:-33px;
+    margin-left:1040px;
+
+}
+/*.titulo4{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:27px;
+    margin-top:-33px;
+    margin-left:750px;
+}*/
+.lor1{
+    margin-left:-10px;
+    text-align:center;
+    width:380px;
+    height:80px;
+       color:#808080;
+    
+    font-size:16px;
+}
+.lor2{
+    margin-left:470px;
+    text-align:center;
+    width:380px;
+    height:80px;
+       color:#808080;
+    margin-top:-80px;
+
+    font-size:16px;
+}
+.lor3{
+    margin-left:940px;
+    text-align:center;
+    width:380px;
+    height:80px;
+       color:#808080;
+    margin-top:-80px;
+
+    font-size:16px;
+}
+.our3{
+     font-weight:bold;
+    color:#2eca38;
+    font-family:'Script MT';
+    font-size:25px;
+    text-align:center;
+    margin-top:150px;
+}
+.sup3{
+    font-weight:bold;
+    margin-top:10px;
+    font-family:Calibri;
+    font-size:30px;
+    text-align:center;
+}
+.verde3{
+    background-color:#2eca38;
+    height:5px;margin-top:30px;
+    width:80px;
+    margin-left:620px;
+}
+.whey2 {
+    background-image: url('Imagens/whey.JPG');
+    background-repeat: no-repeat;   
+    height: 390px;
+    width: 540px;
+    background-color: #2eca38;
+}
+.your{
+   font-weight:bold;
+    color:#2eca38;
+    font-family:'Script MT';
+    font-size:28px;
+   margin-left:700px;
+    margin-top:-300px;
+}
+.body{
+   font-weight:bold;
+    color:#000;
+    font-family:Calibri;
+    font-size:25px;
+    margin-left:700px;
+   
+}
+.trav{
+    background-color:#2eca38;
+    height:120px;
+    width:7px;
+    margin-top:30px;
+    margin-left:700px;
+}
+.travv{
+    background-color:#2eca38;
+    height:120px;
+    width:7px;
+    margin-top:30px;
+    margin-left:700px;
+}
+.trave{
+    background-color:#2eca38;
+    height:120px;
+    width:7px;
+    margin-top:-120px;
+    margin-left:1000px;
+}
+.travee{
+    background-color:#2eca38;
+    height:120px;
+    width:7px;
+    margin-top:-270px;
+    margin-left:1000px;
+}
+.ti1{
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:20px;
+    color:#333740;
+    margin-top:-120px;
+    margin-left:730px;
+}
+.ti2{
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:20px;
+    color:#333740;
+    margin-top:120px;
+    margin-left:730px;
+}
+.texto1{
+    color:#808080;
+    font-family:Calibri;
+    margin-top:-140px;
+    font-size:17px;
+    margin-left:730px;
+}
+.texto2{
+    color:#808080;
+    font-family:Calibri;
+    margin-top:60px;
+    font-size:17px;
+    margin-left:730px;
+}
+.texto3{
+    color:#808080;
+    font-family:Calibri;
+    margin-top:-100px;
+    font-size:17px;
+    margin-left:1030px;
+}
+.texto4{
+    color:#808080;
+    font-family:Calibri;
+    margin-top:-240px;
+    font-size:17px;
+    margin-left:1030px;
+}
+.t{
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:20px;
+    color:#333740;
+    margin-top:-120px;
+    margin-left:1030px;
+}
+.t2{
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:20px;
+    color:#333740;
+    margin-top:120px;
+    margin-left:1030px;
+}
+
+
+
+
+
