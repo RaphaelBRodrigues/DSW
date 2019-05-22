@@ -1,0 +1,92 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\GabrielMVC.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\GabrielMVC.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\GabrielMVC.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\obj\Debug\GabrielMVC.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\obj\Debug\GabrielMVC.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\GabrielMVC\GabrielMVC\obj\Debug\GabrielMVC.pdb
+M:\DSW\GabrielMVC\GabrielMVC\bin\ApplicationInsights.config
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\csc.exe
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\vbc.exe
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\VBCSCompiler.exe
+M:\DSW\GabrielMVC\GabrielMVC\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW\GabrielMVC\GabrielMVC\bin\GabrielMVC.dll.config
+M:\DSW\GabrielMVC\GabrielMVC\bin\GabrielMVC.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\GabrielMVC.pdb
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.Web.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.ApplicationInsights.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Helpers.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Mvc.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Razor.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Deployment.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Razor.dll
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.Web.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.ApplicationInsights.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Razor.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Deployment.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Webpages.Razor.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Helpers.xml
+M:\DSW\GabrielMVC\GabrielMVC\bin\System.Web.Mvc.xml
+M:\DSW\GabrielMVC\GabrielMVC\obj\Debug\GabrielMVC.csprojResolveAssemblyReference.cache
+M:\DSW\GabrielMVC\GabrielMVC\obj\Debug\GabrielMVC.dll
+M:\DSW\GabrielMVC\GabrielMVC\obj\Debug\GabrielMVC.pdb
