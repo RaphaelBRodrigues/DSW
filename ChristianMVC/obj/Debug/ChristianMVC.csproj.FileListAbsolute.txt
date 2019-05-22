@@ -1,0 +1,92 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\ChristianMVC.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\ChristianMVC.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\ChristianMVC.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\obj\Debug\ChristianMVC.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\obj\Debug\ChristianMVC.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\ChristianMVC\ChristianMVC\obj\Debug\ChristianMVC.pdb
+M:\ChristianMVC\ChristianMVC\bin\ApplicationInsights.config
+M:\ChristianMVC\ChristianMVC\bin\roslyn\csc.exe
+M:\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\ChristianMVC\ChristianMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\ChristianMVC\ChristianMVC\bin\roslyn\System.Collections.Immutable.dll
+M:\ChristianMVC\ChristianMVC\bin\roslyn\System.Reflection.Metadata.dll
+M:\ChristianMVC\ChristianMVC\bin\roslyn\vbc.exe
+M:\ChristianMVC\ChristianMVC\bin\roslyn\VBCSCompiler.exe
+M:\ChristianMVC\ChristianMVC\bin\roslyn\VBCSCompiler.exe.config
+M:\ChristianMVC\ChristianMVC\bin\ChristianMVC.dll.config
+M:\ChristianMVC\ChristianMVC\bin\ChristianMVC.dll
+M:\ChristianMVC\ChristianMVC\bin\ChristianMVC.pdb
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.Agent.Intercept.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.DependencyCollector.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.Web.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.WindowsServer.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.ApplicationInsights.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.Web.Infrastructure.dll
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Helpers.dll
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Mvc.dll
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Razor.dll
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Deployment.dll
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.dll
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Razor.dll
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.DependencyCollector.xml
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.Web.xml
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.AI.WindowsServer.xml
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.ApplicationInsights.xml
+M:\ChristianMVC\ChristianMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Razor.xml
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.xml
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Deployment.xml
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Webpages.Razor.xml
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Helpers.xml
+M:\ChristianMVC\ChristianMVC\bin\System.Web.Mvc.xml
+M:\ChristianMVC\ChristianMVC\obj\Debug\ChristianMVC.csprojResolveAssemblyReference.cache
+M:\ChristianMVC\ChristianMVC\obj\Debug\ChristianMVC.dll
+M:\ChristianMVC\ChristianMVC\obj\Debug\ChristianMVC.pdb
