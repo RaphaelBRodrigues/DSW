@@ -1,0 +1,99 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Vinicius.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Vinicius.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Vinicius.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\obj\Debug\Vinicius.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\obj\Debug\Vinicius.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Vinicius\Vinicius\obj\Debug\Vinicius.pdb
+E:\Vinicius\Vinicius\bin\ApplicationInsights.config
+E:\Vinicius\Vinicius\bin\roslyn\csc.exe
+E:\Vinicius\Vinicius\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vinicius\Vinicius\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vinicius\Vinicius\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vinicius\Vinicius\bin\roslyn\System.Collections.Immutable.dll
+E:\Vinicius\Vinicius\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vinicius\Vinicius\bin\roslyn\vbc.exe
+E:\Vinicius\Vinicius\bin\roslyn\VBCSCompiler.exe
+E:\Vinicius\Vinicius\bin\roslyn\VBCSCompiler.exe.config
+E:\Vinicius\Vinicius\bin\Vinicius.dll.config
+E:\Vinicius\Vinicius\bin\Vinicius.dll
+E:\Vinicius\Vinicius\bin\Vinicius.pdb
+E:\Vinicius\Vinicius\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Vinicius\Vinicius\bin\Microsoft.AI.DependencyCollector.dll
+E:\Vinicius\Vinicius\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Vinicius\Vinicius\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Vinicius\Vinicius\bin\Microsoft.AI.Web.dll
+E:\Vinicius\Vinicius\bin\Microsoft.AI.WindowsServer.dll
+E:\Vinicius\Vinicius\bin\Microsoft.ApplicationInsights.dll
+E:\Vinicius\Vinicius\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vinicius\Vinicius\bin\Microsoft.AI.DependencyCollector.xml
+E:\Vinicius\Vinicius\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Vinicius\Vinicius\bin\Microsoft.AI.Web.xml
+E:\Vinicius\Vinicius\bin\Microsoft.AI.WindowsServer.xml
+E:\Vinicius\Vinicius\bin\Microsoft.ApplicationInsights.xml
+E:\Vinicius\Vinicius\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vinicius\Vinicius\obj\Debug\Vinicius.csprojResolveAssemblyReference.cache
+E:\Vinicius\Vinicius\obj\Debug\Vinicius.dll
+E:\Vinicius\Vinicius\obj\Debug\Vinicius.pdb
+M:\DSW\Vinicius\Vinicius\bin\ApplicationInsights.config
+M:\DSW\Vinicius\Vinicius\bin\roslyn\csc.exe
+M:\DSW\Vinicius\Vinicius\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW\Vinicius\Vinicius\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW\Vinicius\Vinicius\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW\Vinicius\Vinicius\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW\Vinicius\Vinicius\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW\Vinicius\Vinicius\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW\Vinicius\Vinicius\bin\roslyn\vbc.exe
+M:\DSW\Vinicius\Vinicius\bin\roslyn\VBCSCompiler.exe
+M:\DSW\Vinicius\Vinicius\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW\Vinicius\Vinicius\bin\Vinicius.dll.config
+M:\DSW\Vinicius\Vinicius\bin\Vinicius.dll
+M:\DSW\Vinicius\Vinicius\bin\Vinicius.pdb
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.Web.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.ApplicationInsights.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.Web.xml
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.ApplicationInsights.xml
+M:\DSW\Vinicius\Vinicius\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW\Vinicius\Vinicius\obj\Debug\Vinicius.csprojResolveAssemblyReference.cache
+M:\DSW\Vinicius\Vinicius\obj\Debug\Vinicius.dll
+M:\DSW\Vinicius\Vinicius\obj\Debug\Vinicius.pdb
