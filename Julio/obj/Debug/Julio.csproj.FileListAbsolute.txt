@@ -1,0 +1,66 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Julio.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Julio.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Julio.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\obj\Debug\Julio.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\obj\Debug\Julio.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Julio\Julio\obj\Debug\Julio.pdb
+M:\JulioDisponivelMetade\Julio\bin\ApplicationInsights.config
+M:\JulioDisponivelMetade\Julio\bin\roslyn\csc.exe
+M:\JulioDisponivelMetade\Julio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\JulioDisponivelMetade\Julio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\JulioDisponivelMetade\Julio\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\JulioDisponivelMetade\Julio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\JulioDisponivelMetade\Julio\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\JulioDisponivelMetade\Julio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\JulioDisponivelMetade\Julio\bin\roslyn\System.Collections.Immutable.dll
+M:\JulioDisponivelMetade\Julio\bin\roslyn\System.Reflection.Metadata.dll
+M:\JulioDisponivelMetade\Julio\bin\roslyn\vbc.exe
+M:\JulioDisponivelMetade\Julio\bin\roslyn\VBCSCompiler.exe
+M:\JulioDisponivelMetade\Julio\bin\roslyn\VBCSCompiler.exe.config
+M:\JulioDisponivelMetade\Julio\bin\Julio.dll.config
+M:\JulioDisponivelMetade\Julio\bin\Julio.dll
+M:\JulioDisponivelMetade\Julio\bin\Julio.pdb
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.Agent.Intercept.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.DependencyCollector.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.Web.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.WindowsServer.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.ApplicationInsights.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.DependencyCollector.xml
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.Web.xml
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.AI.WindowsServer.xml
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.ApplicationInsights.xml
+M:\JulioDisponivelMetade\Julio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\JulioDisponivelMetade\Julio\obj\Debug\Julio.csprojResolveAssemblyReference.cache
+M:\JulioDisponivelMetade\Julio\obj\Debug\Julio.dll
+M:\JulioDisponivelMetade\Julio\obj\Debug\Julio.pdb

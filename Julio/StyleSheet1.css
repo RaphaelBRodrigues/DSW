@@ -1,0 +1,364 @@
+﻿body {
+ background-color:#f6f7f9
+}
+.loa {
+    margin-left:50px;
+    background-image: url('Imagens/logo.png');
+    background-repeat:no-repeat;
+    height:160px;
+    width:300px;
+    background-size:300px;
+    margin-top:-830px;
+}
+.touch{
+    margin-left:1080px;
+    margin-top:-150px;
+    color:#0000ee;
+    font-weight:bold;
+    font-size:18px;
+    font-family:Calibri;
+    height:40px;
+    padding-top:15px;
+    background-clip:padding-box;
+    width:160px;
+    border-radius:5px;
+    text-align:center;
+    border:2px solid #0000ee;
+}
+.casal {
+    margin-left: -10px;
+    margin-top: 100px;
+    background-color: #ff6a00;
+    height: 654px;
+    background-image: url('Imagens/rafael-serra-fotografia-6.jpg');
+    width: 1350px;
+    margin-bottom: 90px;
+}
+.dont{
+   
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:35px;
+        margin-left:50px;
+
+    margin-top:200px;
+}
+.your{
+    color:#ffffff;
+    font-weight:bold;
+        margin-left:50px;
+
+    font-family:Calibri;
+    font-size:25px;
+}
+.for{
+    margin-top:10px;
+    
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:15px;
+        margin-left:50px;
+
+    margin-bottom:20px;
+}
+.lo{
+    margin-left:50px;
+     background-color:#6ec1e4;
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    text-align:center;
+    height:40px;
+    padding-top:18px;
+    width:230px;
+    font-size:18px;
+    margin-bottom:320px;
+}
+.ico1 {
+    margin-left:50px;
+    margin-top:250px;
+    height:60px;
+    width:60px;
+    background-image: url('Imagens/ico1.JPG');
+}
+.ico2 {
+    margin-left: 390px;
+    margin-top: -60px;
+    height: 60px;
+    background-image: url('Imagens/ico2.JPG');
+    width: 60px;
+}
+.ico3 {
+    margin-left: 690px;
+    margin-top: -60px;
+    background-image: url('Imagens/ico3.JPG');
+    height: 60px;
+    width: 60px;
+}
+.ico4 {
+    margin-left: 990px;
+    background-image: url('Imagens/ico4.JPG');
+    margin-top: -60px;
+    height: 60px;
+    width: 60px;
+}
+.rate{
+    color:#929aa0;
+    font-size:17px;
+    margin-top:-60px;
+    margin-left:130px;
+}
+.amount{
+     color:#929aa0;
+    font-size:17px;
+    margin-top:-20px;
+    margin-left:470px;
+}
+.fast{
+     color:#929aa0;
+    font-size:17px;
+    margin-top:-20px;
+    margin-left:770px;
+}
+.long{
+     color:#929aa0;
+    font-size:17px;
+    margin-top:-20px;
+    margin-left:1070px;
+}
+.from{
+    color:#000000;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:25px;
+    margin-top:10px;
+    margin-left:130px;
+    
+}
+.u{
+  color:#000000;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:25px;
+    margin-top:-30px;
+    margin-left:470px;
+    
+}
+.only{
+      color:#000000;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:25px;
+    margin-top:-32px;
+    margin-left:770px;
+    
+}
+.up{
+      color:#000000;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:25px;
+    margin-top:-28px;
+    margin-left:1070px;
+    
+}
+.find{
+    margin-left:50px;
+    margin-top:200px;
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:22px;
+}
+.png1 {
+    margin-left: 70px;
+    margin-top: -260px;
+    height: 64px;
+    width: 64px;
+   
+}
+.png2 {
+    margin-left: 530px;
+    margin-top: -60px;
+    height: 64px;
+    width: 64px;
+    
+    background-image: url('Imagens/meio2.png');
+}
+.png3 {
+    margin-left: 1000px;
+    margin-top: -67px;
+    height: 64px;
+    width: 68px;
+    background-image: url('Imagens/meio3.png');
+}
+.u01{
+    font-family:Calibri;
+    font-weight:bold;
+    color:#ffffff;
+    font-size:17px;
+    margin-top:15px;
+    margin-left:60px;
+}
+.u02{
+     color:#ffffff;
+       font-family:Calibri;
+    font-weight:bold;
+    font-size:17px;
+    margin-top:-20px;
+    margin-left:530px;
+}
+.u03{
+      font-family:Calibri;
+   
+        color:#ffffff;
+         font-weight:bold;
+    font-size:17px;
+    margin-top:-20px;
+    margin-left:1000px;
+}
+.we{
+    margin-top:40px;
+    font-family:Calibri;
+    margin-left:50px;
+    font-size:27px;
+    color:#ffffff;
+}
+.we2{
+      color:#ffffff;
+    margin-top:-80px;
+    font-family:Calibri;
+    margin-left:500px;
+    font-size:27px;
+}
+.we3{
+      color:#ffffff;
+    margin-top:-70px;
+    font-family:Calibri;
+    margin-left:900px;
+    font-size:27px;
+}
+.blo {
+    margin-left: 50px;
+    margin-top: 50px;
+    background-image: url('Imagens/20Casa-219-Gramado.jpg');
+    height: 381px;    
+    background-repeat:no-repeat;
+
+    width: 421px;
+    background-color: #ff6a00;
+}
+.blo2 {
+    margin-left: 470px;
+    margin-top: -380px;
+    height: 381px;    background-repeat:no-repeat;
+    background-size:600px;
+    width: 421px;
+    background-image: url('Imagens/passe-escrito-com-caneta-de-tinta-permanente-foto_csp20286078.jpg');
+    background-color: #0000ee;
+}
+.blo3 {
+    margin-left: 890px;
+    margin-top: -380px;
+    height: 381px;
+    background-repeat:no-repeat;
+    width: 421px;
+    background-size:500px;
+    background-color:#f7f7f7;
+    background-image: url('Imagens/aluguel-de-notebook-para-pessoa-fisica-1 (1).png');
+}
+.bloco{
+    margin-left:0px;
+}
+.bloco2{
+    margin-top:-150px;
+    margin-left:0px;
+}
+.bloco3{
+    margin-left:3px;
+}
+.escu{
+    margin-left:50px;
+    margin-top:-163px;
+    height: 381px;    
+    background-color:rgba(12,2,4,0.5);
+    width: 421px;
+}
+.escu2{
+    margin-left:471px;
+    margin-top:-383px;
+    height: 381px;    
+    background-color:rgba(12,2,4,0.5);
+    width: 421px;
+}
+.escu3{
+    margin-left:890px;
+    margin-top:-380px;
+    height: 381px;    
+    background-color:rgba(12,2,4,0.5);
+    width: 421px;
+}
+.video {
+    margin-left:50px;
+    margin-top:200px;
+    border-radius:10px;
+    height: 348px;
+    background-image: url('Imagens/Video.JPG');
+    width: 526px;
+}
+.four{
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:25px;
+    margin-top:-350px;
+    margin-left:680px;
+}
+.tra{
+    background-color:#e1e3e4;
+    height:60px;
+    width:5px;
+    margin-left:650px;
+    margin-top:-60px;
+}
+.what{
+    font-family:Calibri;
+    font-weight:bold;
+    color:#929aa0;
+    margin-left:700px;
+
+    margin-top:50px;
+}
+.client{
+    font-family:Calibri;
+    font-weight:bold;
+    color:#929aa0;
+    margin-left:850px;
+    margin-top:-20px;
+}
+.social{
+    font-family:Calibri;
+    font-weight:bold;
+    color:#929aa0;
+    margin-left:1020px;
+    margin-top:-20px;
+    margin-bottom:20px;
+}
+.we22{
+    color:#444545;
+    font-family:Calibri;
+    font-size:20px;
+
+    margin-left:650px;
+}
+.get2{
+    border:2px solid #42474c;
+    color:#8b8f92;
+    font-size:25px;
+    height:50px;
+    width:220px;
+    margin-top:70px;
+    margin-left:650px;
+    padding-left:25px;
+    padding-top:20px;
+}
