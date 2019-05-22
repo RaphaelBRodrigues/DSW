@@ -1,0 +1,117 @@
+﻿/*Pages*/
+body {
+}
+.azul{
+    background-color:#61c7ca;
+    margin-left:-10px;
+    padding-top:60px;
+    font-family:Calibri;
+    font-size:55px;
+    font-weight:400;
+    color:white;
+    padding-left:50px;
+    height:120px;
+    width:1301px;
+}
+#meio-texto {
+    margin-top:50px;
+    font-size:50px;
+    font-family:Calibri;
+    color:rgba(0,0,0,0.7);
+    text-align:center;
+}
+#m1{
+    border-radius:200px;
+   margin-left:600px;
+}
+#text2{
+        font-size:18px;
+    color:#434345;
+    font-weight:300;
+    font-family:Calibri;
+    text-align:center;
+}
+#az{
+    color:#61c7ca;
+    font-family:Calibri;
+
+    text-align:center;
+    font-size:35px;
+    margin-bottom:150px;
+}
+#conta{
+    color:white;
+    font-weight:bold;
+    font-family:Calibri;
+    margin-left:60px;
+    margin-top:-850px;
+    font-size:30px;
+    
+}
+.inputs{
+    margin-top:50px;
+    margin-left:180px;
+    background-color:rgba(0,0,0,0);
+    border:1px solid white;
+    border-radius:5px;
+    height:50px;
+    color:white;
+    font-family:Calibri;
+    width:350px;
+    font-weight:100;
+    font-size:20px;
+    padding-left:50px;
+}
+#input3{
+    padding-top:-50px;
+    width:935px;
+    height:250px;
+    
+}
+.inputs::-webkit-input-placeholder {
+   color:white;
+}
+#bot1{
+    margin-left:180px;
+    position:absolute;
+    font-family:Calibri;
+    color:white;
+    height:45px;
+    font-weight:100;
+    border-radius:10px;
+    font-size:20px;
+    width:140px;
+    padding-top:20px;
+    padding-left:100px;
+    transition-duration:1s;
+    border:1px solid white;
+}
+#bot1:hover{
+    background-color:white;
+    border:1px solid black;
+    color:black;
+}
+#bot2{
+    margin-left:480px;
+    position:absolute;
+    font-family:Calibri;
+    color:white;
+    height:45px;
+    font-weight:100;
+    border-radius:10px;
+    font-size:20px;
+    width:140px;
+    padding-top:20px;
+    padding-left:100px;
+    transition-duration:1s;
+    border:1px solid white;
+}
+#bot2:hover{
+    background-color:white;
+    border:2px solid black;
+    color:black;
+}
+
+#mer{
+    margin-top:371px;
+}

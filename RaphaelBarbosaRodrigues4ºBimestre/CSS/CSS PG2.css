@@ -1,0 +1,27 @@
+﻿/*Features*/
+body {
+}
+#meio-titulo{
+    margin-top:150px;
+    font-size:50px;
+    font-family:Calibri;
+    color:rgba(0,0,0,0.7);
+    text-align:center;
+}
+#meio-texto{
+    margin-top:-50px;
+    text-align:center;
+    font-size:19px;
+    font-weight:200;
+    font-family:Calibri;
+}
+.faixa{
+    margin-top:100px;
+}
+.fim-faixa{
+    margin-top:59px;
+}
+#blog{
+        border-bottom:5px dotted red;
+
+}

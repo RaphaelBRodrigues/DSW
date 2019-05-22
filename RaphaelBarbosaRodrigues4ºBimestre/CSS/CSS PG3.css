@@ -1,0 +1,145 @@
+﻿/*Port*/
+body {
+}
+.aa{
+    background-color:#61c7ca;
+    height:100px;
+    margin-left:-10px;
+    font-size:45px;
+    font-family:Calibri;
+    padding-left:120px;
+    padding-top:40px;
+    color:white;
+    margin-bottom:50px
+}
+
+#new{
+    margin-top:500px;
+    font-size:55px;
+    font-family:Calibri;
+    margin-left:120px;
+    color:#434345;
+
+}
+#video1{
+    margin-left:120px;
+    margin-top:80px
+}
+#titt{
+    font-family:Calibri;
+    font-size:40px;
+    font-weight:bold;
+    margin-left:890px;
+    margin-top:-410px;
+
+
+}
+#te{
+    margin-left:890px;
+    font-family:Calibri;
+    font-size:20px;
+    
+}
+#bb1{
+    display:none;
+}
+.bol{
+    margin-left:230px;
+    font-size:40px;
+    transition-duration:0.2s;
+}
+#bol1:hover {
+    color: #61c7ca
+}
+.bol:hover{
+    color:#61c7ca
+}
+#mi1{
+    margin-top:150px;
+    margin-left:-480px;
+    
+}
+#de{
+    color:#61c7ca;
+    font-size:30px;
+    margin-top:-130px;
+    margin-left:450px;
+    font-family:Calibri;
+}
+#tx {
+    font-family: Calibri;
+    font-size: 15px;
+    margin-left: 450px;
+    margin-top:-15px;
+}
+#tt{
+    border-bottom:2px solid #61c7ca;
+    font-size:35px;
+    font-family:Calibri;
+    margin-left:120px;
+    width:235px;
+    margin-top:120px;
+    color:#434345;
+
+}
+#fu1{
+    color:blue;
+    margin-left:120px;
+
+}
+#fu2 {
+    color: blue;
+    margin-left: 20px;
+}
+#fu3 {
+    color: blue;
+    margin-left: 20px;
+}
+#fu4 {
+    color: blue;
+    margin-left: 20px;
+}
+#fu1:hover{
+    color:black;
+}
+.fu {
+
+    border: 3px solid white;
+    height: 250px;
+}
+.fu:hover{
+    border:3px solid #61c7ca;
+}
+.o{
+    font-family:Calibri;
+    background-color:#303030;
+    color:white;
+    height:35px;
+    padding-top:10px;
+    padding-left:20px;
+    font-size:20px;
+    font-weight:500;
+    transition-duration:0.5s;
+    width:150px;
+    position:absolute;
+        margin-top:-75px;
+
+}
+.o:hover{
+    opacity:0;
+}
+#o1{
+    margin-left:120px;
+}
+#o2{
+    margin-left:403px;
+}
+
+#o3{
+    margin-left:682px;
+}
+
+#o4{
+    margin-left:965px;
+}
+

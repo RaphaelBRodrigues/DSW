@@ -1,0 +1,130 @@
+﻿body {
+}
+#bl {
+    background-color: #61c7ca;
+    height: 100px;
+    margin-left: -10px;
+    font-size: 45px;
+    font-family: Calibri;
+    padding-left: 120px;
+    padding-top: 40px;
+    color: white;
+    margin-bottom: 50px;
+}
+.ver{
+    margin-left:180px;
+    transition-duration:0.5s;
+    width:55px;
+    background-color:#3cd880;
+    border-radius:10px;
+    color:white;
+        border:2px solid white;
+
+    padding-left:20px;
+    padding-top:15px;
+    font-family:Calibri;
+    font-size:35px;
+    height:55px;
+}
+.ver:hover{
+    background-color:white;
+    color:#3cd880;
+    border:2px solid #3cd880;
+}
+#verimg1{
+    margin-top:-105px;
+}
+.verimg{
+    height:450px;
+    margin-left:285px;
+}
+.tver{
+    margin-top:15px;
+        margin-left:285px;
+        color:#434345;
+        font-size:35px;
+        font-family:Calibri;
+}
+.textver{
+    margin-top:15px;
+        margin-left:285px;
+        color:#434345;
+        font-size:21px;
+        font-weight:100;
+        font-family:Calibri;
+}
+.bot-ult{
+    font-family:Calibri;
+    border:0.5px solid #434345;
+    height:35px;
+    width:105px;
+    border-radius:5px;
+        padding-left:20px;
+        margin-left:285px;
+    padding-top:15px;
+    color:#434345;
+    transition-duration:0.5s;
+}
+.bot-ult:hover{
+    color:white;
+    background-color:#434345;
+
+}
+#onze{
+    margin-top:150px;
+}
+#verimg2{
+
+}
+#tver2{
+
+}
+#textver2{
+
+}
+#bot-ult2{
+
+}
+.xinha{
+    margin-left:550px;
+   background-color:rgba(0,0,0,0);
+   border:1px solid gray;
+   padding-left:16px;
+   padding-top:10px;
+   width:25px;
+ 
+   height:30px;
+   font-family:Calibri;
+   font-weight:bold;
+   font-size:18px;
+   transition-duration:0.5s;
+
+}
+.xinha:hover{
+    background-color:#61c7ca;
+    border:1px solid white;
+}
+#x1{
+      background-color:#61c7ca;
+    border:1px solid white;
+}
+#x2{
+    margin-left:620px;
+    margin-top:-59px;
+}
+#x3{
+        margin-left:690px;
+
+    margin-top:-59px;
+}
+#x4{
+        margin-left:760px;
+
+    margin-top:-59px;
+}
+#xne{
+        margin-left:830px;
+
+        width:55px;
+    margin-top:-59px;
+}

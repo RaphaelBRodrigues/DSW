@@ -1,0 +1,92 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\RaphaelBarbosaRodrigues4ºBimestre.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\RaphaelBarbosaRodrigues4ºBimestre.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\RaphaelBarbosaRodrigues4ºBimestre.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\obj\Debug\RaphaelBarbosaRodrigues4ºBimestre.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\obj\Debug\RaphaelBarbosaRodrigues4ºBimestre.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\obj\Debug\RaphaelBarbosaRodrigues4ºBimestre.pdb
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\ApplicationInsights.config
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\csc.exe
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\System.Collections.Immutable.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\System.Reflection.Metadata.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\vbc.exe
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\VBCSCompiler.exe
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\roslyn\VBCSCompiler.exe.config
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\RaphaelBarbosaRodrigues4ºBimestre.dll.config
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\RaphaelBarbosaRodrigues4ºBimestre.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\RaphaelBarbosaRodrigues4ºBimestre.pdb
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.Agent.Intercept.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.DependencyCollector.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.Web.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.WindowsServer.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.ApplicationInsights.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.Web.Infrastructure.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Helpers.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Mvc.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Razor.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Deployment.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Razor.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.DependencyCollector.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.Web.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.AI.WindowsServer.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.ApplicationInsights.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Razor.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Deployment.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Webpages.Razor.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Helpers.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\bin\System.Web.Mvc.xml
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\obj\Debug\RaphaelBarbosaRodrigues4ºBimestre.dll
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\obj\Debug\RaphaelBarbosaRodrigues4ºBimestre.pdb
+M:\RaphaelBarbosaRodrigues4ºBimestre\RaphaelBarbosaRodrigues4ºBimestre\obj\Debug\RaphaelBarbosaRodrigues4ºBimestre.csprojResolveAssemblyReference.cache
