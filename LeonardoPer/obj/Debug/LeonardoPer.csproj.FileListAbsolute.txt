@@ -1,0 +1,66 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\LeonardoPer.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\LeonardoPer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\LeonardoPer.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\obj\Debug\LeonardoPer.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\obj\Debug\LeonardoPer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\LeonardoPer\LeonardoPer\obj\Debug\LeonardoPer.pdb
+M:\DSW\LeonardoPer\LeonardoPer\bin\ApplicationInsights.config
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\csc.exe
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\vbc.exe
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\VBCSCompiler.exe
+M:\DSW\LeonardoPer\LeonardoPer\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW\LeonardoPer\LeonardoPer\bin\LeonardoPer.dll.config
+M:\DSW\LeonardoPer\LeonardoPer\bin\LeonardoPer.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\LeonardoPer.pdb
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.Web.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.ApplicationInsights.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.Web.xml
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.ApplicationInsights.xml
+M:\DSW\LeonardoPer\LeonardoPer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW\LeonardoPer\LeonardoPer\obj\Debug\LeonardoPer.csprojResolveAssemblyReference.cache
+M:\DSW\LeonardoPer\LeonardoPer\obj\Debug\LeonardoPer.dll
+M:\DSW\LeonardoPer\LeonardoPer\obj\Debug\LeonardoPer.pdb

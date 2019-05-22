@@ -1,0 +1,252 @@
+﻿body {
+    background-color:#e6eaeb;
+}
+.logo {
+    margin-top: -70px;
+    
+    height: 80px;
+    width: 256px;
+    background-image: url('Imagens/invert-logo.png');
+    margin-left: 20px;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+.cin{
+    margin-top:-10px;
+background-color:#222b32;
+height:80px;
+width:1348px;
+}
+.home{
+    font-size:22px;
+    margin-top:-65px;
+  margin-left:320px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+
+.about{
+    font-size:22px;
+    margin-top:-27px;
+    margin-left:420px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+.pages{
+    font-size:22px;
+    margin-top:-29px;
+    margin-left:550px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+.services{
+    font-size:22px;
+    margin-top:-26px;
+    margin-left:720px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+.features{
+    font-size:22px;
+    margin-top:-25px;
+    margin-left:830px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+
+
+
+.news{
+    font-size:22px;
+    margin-top:-28px;
+    margin-left:640px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+.contact{
+    font-size:22px;
+    margin-top:-27px;
+    margin-left:950px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-weight:bold;
+}
+
+.be{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:200px;
+    color:#313c42;
+    margin-top:30px;
+    margin-left:50px;
+}
+.fit{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:200px;
+    color:#313c42;
+    margin-top:-30px;
+    margin-left:200px;
+}
+
+.and{
+        font-weight:bold;
+    font-family:Calibri;
+    font-size:200px;
+    color:#313c42;
+  
+    margin-top:-100px;
+    margin-left:750px;
+   
+}
+.fast{
+     font-weight:bold;
+    font-family:Calibri;
+    font-size:200px;
+    color:#313c42;
+    margin-top:-50px;
+    margin-left:900px;
+}
+.img {
+    background-size: 1400px;
+    background-image: url('Imagens/Untitled-4.jpg');
+    width: 1340px;
+    background-repeat: no-repeat;
+    height: 735px;
+    margin-top: -700px;
+    margin-left: -200px;
+}
+.welcome{
+    margin-top:120px;
+    margin-left:50px;
+    font-size:50px;
+    font-family:Calibri;
+    font-weight:bold;
+    color:#242d32;
+}
+.bot{
+    background-color:#ea425c;
+    margin-top:-70px;
+    margin-left:100px;
+    height:50px;
+    width:150px;
+    padding-top:20px;
+    padding-left:50px;
+    font-size:30px;
+    color:#e6eaeb;
+    font-weight:bold;
+    font-family:Calibri;
+}
+.we{
+    margin-top:20px;
+    font-size:25px;
+    color:#4a5155;
+    margin-left:50px;
+    font-family:Calibri;
+    
+}
+.imgg {
+   
+    height: 738px;
+    background-image: url('Imagens/img-1-1.jpg');
+    width: 608px;
+    margin-top: -400px;
+    margin-left: 700px;
+}
+.botao{
+    background-color:#ea425c;
+    font-family:Calibri;
+    margin-left:50px;
+    color:#ffffff;
+    background-clip:padding-box;
+    padding:10px 0px 0px 35px;
+    font-size:30px;
+    height:50px;
+    width:200px;
+    margin-top:-301px;
+}
+.cin2{
+    background-color:#222b32;
+    width:1348px;
+    height:1000px;
+    margin-left:-10px;
+    margin-top:300px;
+}
+.our{
+    margin-top:-950px;
+    margin-left:80px;
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:55px;
+}
+.muay {
+    
+    color: #000;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 20px;
+    margin-left:120px;
+    margin-top:60px;
+}
+.muayimg {
+    background-image: url('Imagens/quadro.jpg');
+    height: 350px;
+    margin-top: -50px;
+    width: 570px;
+    margin-left: 80px;
+}
+.karate{
+    
+    color: #000;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 20px;
+    margin-left:721px;
+    margin-top:-320px;
+}
+.karateimg {
+    background-image: url('Imagens/quadro2.jpg');
+    height: 350px;
+    margin-top: -351px;
+    width: 570px;
+    margin-left: 680px;
+}
+.kickboxing {
+    margin-top:-300px;
+    margin-left:110px;
+    color: #000;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 20px;
+}
+.kickboxingimg {
+    width: 570px;
+    margin-left: 80px;
+    margin-top: 350px;
+    height: 350px;
+    background-image: url('Imagens/Untitled-4.jpg');
+   
+}
+.jiuimg {
+    margin-left: 680px;
+    height: 350px;
+    width: 570px;
+    margin-top: -74px;
+    background-image: url('Imagens/quadro3.jpg');
+    
+}
+.jiu{
+    margin-top:-300px;
+    margin-left: 720px;
+    color: #000;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 20px;
+}
