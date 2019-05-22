@@ -1,0 +1,414 @@
+﻿body {
+    background-color:#ffffff;
+}
+#logo{
+    transition-duration:2s;
+}
+#logo:hover{
+    margin-left:200px;
+}
+.cab{
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:18px;
+    margin-top:-60px;
+    transition-duration:2s;
+    margin-left:400px;
+}
+
+#home{
+    float:left;
+    margin-top:px; transition-duration:2s;
+}
+#about{
+    float:left;    margin-left:50px; transition-duration:2s;
+
+}
+#gallery{
+    float:left;    margin-left:50px; transition-duration:2s;
+
+}
+#pricing{
+    margin-left:50px;
+    float:left;    margin-left:50px; transition-duration:2s;
+
+
+}
+#blog{
+     float:left;    margin-left:50px; transition-duration:2s;
+
+}
+#contact{
+     float:left;    margin-left:50px; transition-duration:2s;
+
+}
+#pages{
+     float:left;    margin-left:50px; transition-duration:2s;
+
+}
+#pages:hover{
+    color:#7a6fe7;
+}
+#contact:hover{
+    color:#7a6fe7;
+}
+#blog:hover{
+    color:#7a6fe7;
+}
+#pricing:hover{
+    color:#7a6fe7;
+}
+#gallery:hover{
+    color:#7a6fe7;
+}
+#about:hover{
+    color:#7a6fe7;
+}
+#home:hover{
+    color:#7a6fe7;
+}
+.traço{
+   
+    height:2px;
+    width:50px;
+ 
+}
+#home:hover ~ .traço{
+   
+     background-color:#7a6fe7;
+}
+#fundo{
+    width:1348px;
+}
+h1:hover{
+    color:#7a6fe7;
+}
+h1{transition-duration:1s;
+    font-family:Calibri;
+    font-size:70px;
+    margin-left:340px;
+    position:absolute;
+    margin-top:-400px;
+
+}
+
+.textos{
+    color:#7a6fe7;
+    position:absolute;
+    margin-top:-300px;
+    text-align:center;
+    font-size:18px;
+        transition-duration:1s;
+
+    margin-left:400px;
+    color:#484848;
+    font-family:Calibri;
+}
+.bot{
+    transition-duration:2s;
+    padding-top:15px;
+    height:40px;
+    width:200px;
+    background-color:#7a6fe7;
+    color:white;
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:18px;
+    
+    text-align:center;
+}
+.bot:hover{
+  
+    color:#7a6fe7;
+    background-color:rgba(0,0,0,0);
+    border:2px solid #7a6fe7;
+}
+#bot1{
+    position:absolute;
+    margin-top:-220px;
+    margin-left:610px;
+}
+.caixa1
+{
+    box-shadow:black 2px 2px initial;
+    width:100px;
+    background-color:#7a6fe7;
+    height:200px;
+}
+#see{
+    color:black;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:30px;
+    text-align:center;
+    margin-top:-700px;
+}
+#bot2{
+    margin-top:20px;
+    margin-left:560px;
+}
+.tit{
+    margin-left:550px;
+    font-family:Calibri;
+    color:black;
+    font-size:25px;
+    font-weight:;
+}
+.textos{
+color:#7d7d7d;
+font-family:sans-serif;
+font-size:15px;
+font-weight:bold;
+text-align:center;
+}
+#txt1{
+margin-left:940px;
+}
+#txt2{margin-top:0px;
+margin-left:565px;
+}
+#txt3{
+    margin-left:930px;
+    margin-top:-00px;
+}
+#im1{
+    float:left;
+    margin-top:-180px;
+    margin-left:1000px;
+    margin-bottom:150px;
+}
+#im2{
+    margin-right:295px;
+    margin-top:60px;
+    margin-left:620px;
+}
+#call{
+    margin-left:920px;
+    margin-top:-350px;
+}
+#cloud{
+    margin-top:265px;
+    margin-left:920px;
+}
+
+#lat{
+    margin-top:200px;
+    text-align:center;
+    font-family:Calibri;
+    font-size:45px;
+}
+#textlat{
+    margin-top:-10px;
+    font-size:18px;
+    font-family:Calibri;
+    color:rgba(0,0,0,1);
+    text-align:center;
+    margin-bottom:50px;
+}
+#pro{
+    color:#7a6fe7;
+}
+.caix{
+    opacity:0;
+    transition-duration:1s;
+    font-size:16px;
+
+}
+#text1:hover{
+    opacity:1;
+
+}
+
+
+#text3:hover{
+    opacity:1;
+
+}
+#text4:hover{
+        opacity:1;
+
+}
+#text4:hover{
+        opacity:1;
+
+}
+#text4:hover{
+        opacity:1;
+
+}
+#text22:hover{
+        opacity:1;
+
+}
+#text5:hover{
+        opacity:1;
+
+}
+#text6:hover{
+        opacity:1;
+
+}
+#pro{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:30px;
+}
+#text1{
+
+    margin-top:-650px;
+}
+#text22{
+    margin-left:450px;
+    margin-top:-170px;
+}
+#text3{
+ margin-left:850px;
+    margin-top:-170px;
+}
+#text4{
+    margin-top:200px;
+
+}
+#text5{
+    margin-left:450px;
+    margin-top:-170px;
+    
+}
+#text6{
+    margin-left:860px;
+    margin-top:-170px;
+}
+.rand{
+    font-family:Calibri;
+    color:#afafaf;
+   font-size:20px;
+  margin-left:300px;
+    font-weight:bold;
+    transition-duration:1s;
+   
+}
+#rand1{
+    color:#7a6fe7;
+}
+#rand2{
+  margin-left:400px;
+    margin-top:-45px;
+}
+#rand3{
+    margin-left:550px;
+    margin-top:-45px;
+}
+#rand4{
+    margin-left:750px;
+    margin-top:-45px;
+}
+#rand5{
+    margin-left:920px;
+    margin-top:-45px;
+}
+.rand:hover{
+    color:#7a6fe7;
+}
+#text2{
+    font-family:Calibri;
+    position:absolute;
+    float:left;
+    color:rgba(0,0,0,1);
+    font-size:18px;
+    text-align:center;
+    font-weight:bold;
+    margin-left:390px;
+    margin-top:-300px;
+}
+#dez{
+    font-weight:bold;
+    font-family:Arial;
+    font-size:250px;
+}
+#year{
+    color:black;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:30px;
+    margin-top:-500px;
+    margin-left:400px;
+
+}
+#dream{
+    color:gray;
+    margin-left:400px;
+    font-weight:bold;
+    font-size:18px;
+    font-family:Calibri;
+}
+#get{
+    margin-left:400px;
+    margin-top:20px;
+}
+.num{
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:120px;
+    float:left;
+   
+    margin-top:-300px;    
+    margin-left:850px;
+}
+#num2{
+    margin-left:1000px;
+}
+#num3{
+    margin-top:-150px;
+    margin-left:800px;
+}
+#num4{
+    margin-left:1000px;
+    margin-top:-265px;
+}
+#ver{
+    position:absolute;
+    margin-left:930px;
+    margin-top:-340px;
+    font-size:280px;
+    color:gray;
+    position:absolute;
+    transition-duration:0s;
+}
+#hor{
+     position:absolute;
+      margin-left:900px;
+    margin-top:-430px;
+    font-size:480px;
+   color:gray;
+   
+       transform:rotate(-90deg);
+
+}
+#lo1{
+    transition-duration:1s;
+    margin-left:80px;
+}
+#lo1:hover{
+    border:2px dotted  black;
+}
+#lo2{
+    transition-duration:1s;
+}
+#lo2:hover{
+    border:2px dotted  black;
+}
+#lo3{
+    transition-duration:1s;
+}
+#lo3:hover{
+        border:2px dotted  black;
+
+}
+#lo4:hover{
+    border:2px dotted  black;
+
+}
+#lo4:hover{
+    border:2px dotted  black;
+    padding:2px;
+}
