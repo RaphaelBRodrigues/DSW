@@ -1,0 +1,92 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\MasterPiece.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\MasterPiece.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\MasterPiece.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\obj\Debug\MasterPiece.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\obj\Debug\MasterPiece.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\MasterPiece\MasterPiece\obj\Debug\MasterPiece.pdb
+M:\DSW\MasterPiece\MasterPiece\bin\ApplicationInsights.config
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\csc.exe
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\vbc.exe
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\VBCSCompiler.exe
+M:\DSW\MasterPiece\MasterPiece\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW\MasterPiece\MasterPiece\bin\MasterPiece.dll.config
+M:\DSW\MasterPiece\MasterPiece\bin\MasterPiece.dll
+M:\DSW\MasterPiece\MasterPiece\bin\MasterPiece.pdb
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.Web.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.ApplicationInsights.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Helpers.dll
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Mvc.dll
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Razor.dll
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Webpages.Deployment.dll
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Webpages.dll
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Webpages.Razor.dll
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.Web.xml
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.ApplicationInsights.xml
+M:\DSW\MasterPiece\MasterPiece\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Razor.xml
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Webpages.xml
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Webpages.Deployment.xml
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Webpages.Razor.xml
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Helpers.xml
+M:\DSW\MasterPiece\MasterPiece\bin\System.Web.Mvc.xml
+M:\DSW\MasterPiece\MasterPiece\obj\Debug\MasterPiece.csprojResolveAssemblyReference.cache
+M:\DSW\MasterPiece\MasterPiece\obj\Debug\MasterPiece.dll
+M:\DSW\MasterPiece\MasterPiece\obj\Debug\MasterPiece.pdb
