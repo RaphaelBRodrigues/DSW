@@ -1,0 +1,66 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Jhonatan.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Jhonatan.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Jhonatan.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\obj\Debug\Jhonatan.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\obj\Debug\Jhonatan.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Jhonatan\Jhonatan\obj\Debug\Jhonatan.pdb
+E:\Jhonatan\Jhonatan\bin\ApplicationInsights.config
+E:\Jhonatan\Jhonatan\bin\roslyn\csc.exe
+E:\Jhonatan\Jhonatan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Jhonatan\Jhonatan\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Jhonatan\Jhonatan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Jhonatan\Jhonatan\bin\roslyn\System.Collections.Immutable.dll
+E:\Jhonatan\Jhonatan\bin\roslyn\System.Reflection.Metadata.dll
+E:\Jhonatan\Jhonatan\bin\roslyn\vbc.exe
+E:\Jhonatan\Jhonatan\bin\roslyn\VBCSCompiler.exe
+E:\Jhonatan\Jhonatan\bin\roslyn\VBCSCompiler.exe.config
+E:\Jhonatan\Jhonatan\bin\Jhonatan.dll.config
+E:\Jhonatan\Jhonatan\bin\Jhonatan.dll
+E:\Jhonatan\Jhonatan\bin\Jhonatan.pdb
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.DependencyCollector.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.Web.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.WindowsServer.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.ApplicationInsights.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.DependencyCollector.xml
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.Web.xml
+E:\Jhonatan\Jhonatan\bin\Microsoft.AI.WindowsServer.xml
+E:\Jhonatan\Jhonatan\bin\Microsoft.ApplicationInsights.xml
+E:\Jhonatan\Jhonatan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Jhonatan\Jhonatan\obj\Debug\Jhonatan.csprojResolveAssemblyReference.cache
+E:\Jhonatan\Jhonatan\obj\Debug\Jhonatan.dll
+E:\Jhonatan\Jhonatan\obj\Debug\Jhonatan.pdb

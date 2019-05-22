@@ -1,0 +1,359 @@
+﻿body {
+}
+.fundo{
+    background-color:#000000;
+    margin-left:-10px;
+    height:50px;
+    margin-top:-12px;
+    width:1348px;
+}
+.home{
+    margin-left:20px;
+    margin-top:-35px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-size:20px;
+
+}
+.band{
+    margin-left:120px;
+    margin-top:-25px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-size:20px;
+
+}
+.tour{
+    margin-left:210px;
+    margin-top:-25px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-size:20px;
+
+}
+.contact{
+    margin-left:300px;
+    margin-top:-25px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-size:20px;
+
+}
+.more{
+    margin-left:420px;
+    margin-top:-25px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-size:20px;
+
+}
+.t{
+    margin-left:480px;
+    margin-top:-25px;
+    color:#ffffff;
+    font-family:Calibri;
+    font-size:20px;
+}
+.lupa {
+    height:39px;
+    width:37px;
+    margin-left:1280px;
+    margin-top:-30px;
+    background-image: url('Imag/business_icon.jpg');
+}
+.img {
+    margin-top:5px;
+    margin-left:-10px;
+    width: 1348px;
+    background-image: url('Imag/la.jpg');
+    height: 600px;
+}
+.los{
+    color:#ffffff;
+    text-align:center;
+    margin-top:-120px;
+    font-size:30px;
+    font-family:Calibri;
+}
+.txt{
+      color:#ffffff;
+    text-align:center;
+    margin-top:20px;
+    font-size:20px;
+    font-family:Calibri;
+}
+.the{
+    font-family:Calibri;
+    font-size:30px;
+    text-align:center;
+    margin-top:50px;
+}
+.music{
+    text-align:center;
+    color:#8c8c8c;
+    margin-top:20px;
+   }
+.txt2{
+    font-family:Calibri;
+    text-align:center;
+    margin-top:30px;
+}
+.name1{
+    font-family:Calibri;
+    margin-top:80px;
+    margin-left:350px;
+}
+.name2{
+    font-family:Calibri;
+    margin-top:-20px;
+    margin-left:650px;
+}
+.name3{
+    font-family:Calibri;
+    margin-top:-20px;
+    margin-left:950px;
+}
+.img1 {
+    height: 255px;
+    background-image: url('Imag/la2.jpg');
+    width: 255px;
+    margin-top:50px;
+    margin-left:250px;
+}
+.img2{
+    height: 255px;
+    background-image: url('Imag/la2.jpg');
+    width: 255px;
+    margin-top:-255px;
+    margin-left:550px;
+}
+.img3{
+    height: 255px;
+    background-image: url('Imag/la2.jpg');
+    width: 255px;
+    margin-top:-255px;
+    margin-left:850px;
+}
+.fundo2{
+    background-color:#000000;
+    height:1000px;
+    width:1348px;
+    margin-top:150px;
+    margin-left:-10px;
+}
+.tour2{
+    margin-left:570px;
+    color:#ffffff;
+    font-size:30px;
+    margin-top:-800px;
+}
+.rem{
+    color:#8c8c8c;
+    font-size:20px;
+    font-style:italic;
+    margin-left:540px;
+}
+.caixa{
+    background-color:#ffffff;
+    height:150px;
+    width:768px;
+    margin-top:90px;
+    margin-left:-250px;
+}
+.linha {
+    background-image: url('Imag/linha.JPG');
+    width:768px;
+    height:15px;
+    background-color:#ff0000;
+    margin-top:-50px;
+    margin-left:-250px;
+}
+.linha2 {
+    background-image: url('Imag/linha.JPG');
+    width:768px;
+    height:15px;
+    background-color:#ff0000;
+    margin-top:-80px;
+    margin-left:-250px;
+}
+.sep{
+    margin-left:-230px;
+    margin-top:-35px;
+}
+.oc{
+    margin-left:-230px;
+    margin-top:25px;
+}
+.nov{
+    margin-left:-230px;
+    margin-top:30px;
+}
+.bot1{
+    background-color:#f44336;
+    height:30px;
+    width:80px;
+    color:#ffffff;
+    font-family:Calibri;
+    padding-left:5px;
+    margin-top:-130px;
+    margin-left:-120px;
+}
+.bot2{
+    background-color:#f44336;
+    height:30px;
+    width:80px;
+    color:#ffffff;
+    font-family:Calibri;
+    padding-left:5px;
+    margin-top:20px;
+    margin-left:-150px;
+}
+.tres{
+    background-color:#000000;
+    height:30px;
+    width:25px;
+    border-radius:40px;
+    padding-left:15px;
+    padding-top:10px;
+    color:#ffffff;
+    margin-top:20px;
+    margin-left:470px;
+}
+.branco{
+    margin-top:50px;
+    margin-left:-250px;
+    height:359px;
+    width:249px;
+    background-color:#ffffff;
+}
+.branco3{
+    margin-top:-357px;
+    margin-left:300px;
+    height:359px;
+    width:249px;
+    background-color:#ffffff;
+}
+.branco2{
+    margin-top:-360px;
+    margin-left:25px;
+    height:359px;
+    width:249px;
+    background-color:#ffffff;
+}
+.cit1 {
+    background-image: url('Imag/newyork.jpg');
+    height:150px;
+    width:249px;
+    margin-left:-250px;
+    margin-top:-360px;
+}
+.cit2 {
+    height: 150px;
+    background-image: url('Imag/paris.jpg');
+    width: 249px;
+    background-size:250px;
+    margin-left: 25px;
+    margin-top: -150px;
+}
+.cit3 {
+    margin-top:-150px;
+    margin-left: 300px;
+    height: 150px;
+    background-size: 250px;
+    width: 249px;
+    background-image: url('Imag/sanfran.jpg');
+}
+.ny{
+    margin-left:-230px;
+    font-weight:bold;
+    font-family:Calibri;
+    font-style:inherit;
+    color:#000000;
+
+
+}
+.par{
+    margin-top:-25px;
+    margin-left:50px;
+    font-weight:bold;
+    font-family:Calibri;
+    font-style:inherit;
+    color:#000000;
+}
+.san{
+    margin-top:-20px;
+    margin-left:310px;
+    font-weight:bold;
+    font-family:Calibri;
+    font-style:inherit;
+    color:#000000;
+}
+.dat1{
+    font-size:16px;
+    margin-top:10px;
+    margin-left:-230px;
+}
+.dat2{
+    font-size:16px;
+    margin-top:-20px;
+    margin-left:50px;
+}
+.dat3{
+    font-size:16px;
+    margin-top:-20px;
+    margin-left:310px;
+}
+.txtt{
+    color:#000000;
+    margin-top:20px;
+    font-size:18px;
+    margin-left:-240px;
+}
+.txtt2{
+    color:#000000;
+    margin-top:-42px;
+    font-size:18px;
+    margin-left:40px;
+}
+.txtt3{
+    color:#000000;
+    margin-top:-40px;
+    font-size:18px;
+    margin-left:310px;
+}
+.botao{
+    color:#ffffff;
+    height:30px;
+    width:120px;
+    background-color:#000000;
+    font-family:Calibri;
+    font-weight:bold;
+    margin-top:10px;
+    padding-top:10px;
+    padding-left:20px;
+    margin-left:310px;
+}
+.botao2{
+    color:#ffffff;
+    height:30px;
+    width:120px;
+    background-color:#000000;
+    font-family:Calibri;
+    font-weight:bold;
+    margin-top:-40px;
+    padding-top:10px;
+    padding-left:20px;
+    margin-left:600px;
+}
+.botao3{
+    color:#ffffff;
+    height:30px;
+    width:120px;
+    background-color:#000000;
+    font-family:Calibri;
+    font-weight:bold;
+    margin-top:-40px;
+    padding-top:10px;
+    padding-left:20px;
+    margin-left:880px;
+}
