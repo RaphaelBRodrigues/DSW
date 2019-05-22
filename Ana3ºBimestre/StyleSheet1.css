@@ -1,0 +1,491 @@
+﻿body {
+ /* background-image:linear-gradient(to right,black,white);*/
+}
+.negro {
+    background-color: #191919;
+    height: 90px;
+    width: 1348px;
+    margin-left: -10px;
+}
+.tudo{
+   
+    margin-top:-28px;
+}
+#logo{
+
+    margin-top:-80px;
+    height: 80px;
+    background-repeat:no-repeat;
+    width: 150px;
+    background-image: url('img/logo-light.png');
+    transition-duration:2s;
+}
+#logo:hover{
+    margin-left:200px;
+}
+#home{
+    font-weight:bold;
+    font-family:Calibri;
+    color:white;
+    font-size:18px;
+    margin-top:-80px;
+    margin-left:400px;
+
+}
+#features {
+    font-weight: bold;
+    font-family: Calibri;
+    color: white;
+    font-size: 18px;
+    margin-top: -39px;
+    margin-left: 490px;
+}
+.teste{
+ font-weight: bold;
+    font-family: Calibri;
+    color: white;
+    font-size: 18px;
+    margin-top: -40px;
+    margin-left: 610px;
+}
+#port {
+margin-left:40px;
+}
+#blog{
+    margin-left:40px;
+    
+}
+#shop{
+    margin-left:40px;
+   
+    margin-right:40px;
+    
+
+    
+}
+.try{
+    margin-top:-40px;
+    margin-left:1160px;
+    border-radius:14px;
+    padding-top:15px;
+    background-color:#42b574;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:20px;
+    color:white;
+    height:40px;
+    width:150px;
+    background-clip:padding-box;
+    text-align:center;
+    transition-duration:1s;
+}
+.try:hover{
+    background-color:blue;
+}
+.mu{
+    background-repeat:no-repeat;
+    margin-top:8px;
+    margin-left:-10px;
+    height:948px;
+    width:1348px;
+ background-size:1348px;
+ background-image:url(img/intro-04-1920x955.jpg)
+}
+.rgba{
+    margin-left:-10px;
+    margin-top:-948px;
+    background-color:rgba(0, 13, 26,0.7 );
+    width:1348px;
+    height:669px;
+    
+}
+#wel{
+    color:white;
+    font-weight:bold;
+    margin-top:-470px;
+    font-family:Calibri;
+    font-size:50px;
+    text-align:center;
+}
+#the{
+    text-align:center;
+    color:white;
+    margin-top:-40px;
+    font-size:20px;
+    font-family:Calibri;
+}
+.buy{
+    margin-left:460px;
+    border:3px solid white;
+    border-radius:9px;
+    width:220px;
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:20px;
+    color:white;
+    transition-duration:2s;
+    margin-top:-72px;
+
+
+}
+.buy:hover{
+    background-color:#e40000;
+}
+.try2{
+    margin-top:40px;
+    margin-left:750px;
+    padding-top:15px;
+    background-color:#42b574;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:20px;
+    color:white;
+      border-radius:9px;
+    width:220px;
+    text-align:center;
+    padding-top:20px;
+    height:52px;
+    background-clip:padding-box;
+    text-align:center;
+    transition-duration:1s;
+}
+.try2:hover{
+    background-color:blue;
+}
+.script{
+    margin-left:150px;
+    margin-top:310px;
+        background-repeat:no-repeat;
+        background-size:80px;
+    height:80px;
+    width:80px;
+        background-image: url('img/script-512.png');
+
+}
+.estrela {
+    background-size:80px;
+    height:80px;
+    width:80px;
+        background-repeat:no-repeat;
+        margin-top:-80px;
+        margin-left:450px;
+    background-image: url('img/estrela.png');
+}
+.rameira {
+    background-size: 50px;
+    height: 50px;
+    width: 50px;
+        background-repeat:no-repeat;
+         margin-top:-65px;
+        margin-left:800px;
+    background-image: url('img/image-512.png');
+}
+.papaco {
+    background-repeat:no-repeat;
+     background-size:80px;
+    height:80px;
+    width:80px;
+    margin-top:-55px;
+        margin-left:1080px;
+    background-image: url('img/aquarela.jpg');
+}
+#sc{
+    margin-top:15px;
+    margin-left:95px;
+    font-size:25px;
+font-family:Calibri;
+
+}
+#val{
+padding-left:50px; 
+font-weight:bold;
+font-family:Calibri;
+font-size:45px;
+color:#434345;
+}
+#es{
+       margin-top:-110px;
+    margin-left:390px;
+    font-size:25px;
+font-family:Calibri;
+}
+#val2{
+padding-left:75px; 
+font-weight:bold;
+font-family:Calibri;
+font-size:45px;
+color:#434345;
+}
+#es{
+       margin-top:-110px;
+    margin-left:400px;
+    font-size:25px;
+font-family:Calibri;
+}
+#val2{
+padding-left:65px; 
+font-weight:bold;
+font-family:Calibri;
+font-size:45px;
+color:#434345;
+}
+#aqu{
+       margin-top:-115px;
+    margin-left:730px;
+    font-size:25px;
+font-family:Calibri;
+}
+#val3{
+padding-left:70px; 
+font-weight:bold;
+font-family:Calibri;
+font-size:45px;
+color:#434345;
+}
+#aqu{
+       margin-top:-115px;
+    margin-left:730px;
+    font-size:25px;
+font-family:Calibri;
+}
+#im{
+    width:300px;
+       margin-top:-108px;
+    margin-left:1080px;
+    font-size:25px;
+font-family:Calibri;
+}
+
+#val4{
+padding-left:10px; 
+font-weight:bold;
+font-family:Calibri;
+font-size:45px;
+color:#434345;
+}
+#vi{
+    height:500px;
+    width:500px;
+    background-color:black;
+}
+#n{
+    margin-top:120px;
+    margin-left:450px;
+    color:#606062;
+    font-size:55px;
+    font-family:Calibri;
+}
+#cai{
+   margin-top:-120px;
+}
+#cre{
+    margin-bottom:-20px;
+    margin-top:-20px;
+    margin-left:60px;
+    color:#434345;
+    font-size:28px;
+    font-family:Calibri;
+
+}
+#video {
+    margin-top:-260px;
+    margin-left:680px;
+    background-image: url('img/Video.PNG');
+    height: 328px;
+    width: 570px;
+    background-repeat:no-repeat;
+
+}
+#text{
+    font-size:20px;
+    font-family:Calibri;
+    color:#515153;
+ 
+}
+.bot{
+      margin-top:40px;
+    margin-left:-1px;
+    padding-top:15px;
+    background-color:#42b574;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:20px;
+    color:white;
+      border-radius:9px;
+    width:150px;
+    text-align:center;
+    padding-top:20px;
+    height:43px;
+    background-clip:padding-box;
+    text-align:center;
+    transition-duration:1s;
+}
+#te{
+    height:120px;
+    width:120px;
+    background-color:black;
+}
+#video{
+    margin-top:-260px;
+    margin-left:700px;
+}
+.td{
+ margin-left:100px;
+
+}
+#grad {
+    margin-left:-10px;
+    height:200px;
+    width:1340px;
+    background-image: linear-gradient(to right,#56bce8,#70c094,#84c453);
+}
+.lov{
+    text-align:center;
+    font-size:40px;
+    font-family:Calibri;
+    margin-left:-180px;
+}
+#lov{
+    margin-left:-181px;
+}
+#gr{
+    margin-left:90px;
+    margin-top:-86px;
+    color:#4db76d;
+
+}
+#hap{
+    margin-left:500px;
+    margin-top:-91px;
+}
+#li{
+    margin-left:40px;
+    margin-top:-80px;
+    font-size:20px;
+    color:gray;
+}
+#mg{margin-top:-44px;
+       margin-left:540px;
+    font-size:20px;
+     color:#4db76d;
+}
+#core{
+    margin-top:80px;
+    color:#000000;
+    font-family:Calibri;
+    font-size:40px;
+    margin-left:580px;
+
+}
+#c{
+    margin-top:-40px;
+    margin-left:670px;
+    height:3px;
+    width:55px;
+    background-color:#42b574;
+}
+#Intense{
+    margin-left:50px;
+    text-align:center;
+    margin-top:50px;
+    color:white;
+    font-family:Calibri;
+    font-size:40px;
+}
+.bot2{
+    margin-left:600px;
+    border-radius:20px;
+    margin-top:-120px;
+    font-family:Calibri;
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+    border:2px solid white;
+    padding-top:20px;
+    padding-left:20px;
+    height:50px;
+    transition-duration:3s;
+    width:175px;
+}
+.bot2:hover{
+    background-color:greenyellow;
+}
+#im{
+    background-color:gray;
+    height:00px;
+    width:40px;
+}
+#tg{
+    margin-top:50px;
+    margin-left:1080px;
+    color:black;
+     font-size:25px;
+font-family:Calibri;
+}
+.imgs{
+    margin-top:100px;
+}
+.linha2{
+    margin-left:100px;
+    margin-top:100px;
+}
+#msg1{
+    margin-left:-10px;
+    margin-top:-130px;
+}
+#msg2{
+    margin-top:-40px;
+    margin-left:170px;
+   
+}
+#msg3{
+    margin-top:-40px;
+    margin-left:340px;
+}
+#msg4{
+    margin-top:-40px;
+    margin-left:510px;
+}
+#msg5{
+    margin-top:-40px;
+    margin-left:680px;
+}
+#msg6{
+    margin-top:-40px;
+    margin-left:870px;
+}
+#msg7{
+    margin-top:-40px;
+    margin-left:1030px;
+}
+#msg8{
+    margin-top:150px;
+
+}
+#msg9{
+    margin-left:160px;
+    margin-top:-40px;
+}
+#msg10{
+    margin-left:330px;
+    margin-top:-40px;
+}
+#msg11{
+    margin-left:510px;
+    margin-top:-40px;
+}
+#msg12{
+    margin-left:680px;
+    margin-top:-40px;
+}
+#msg13{
+    margin-left:1040px;
+    margin-top:-40px;
+}
+#msg14{
+    margin-left:860px;
+    margin-top:-40px;
+}

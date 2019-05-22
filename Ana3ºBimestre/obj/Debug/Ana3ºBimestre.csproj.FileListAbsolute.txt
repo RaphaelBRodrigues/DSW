@@ -1,0 +1,92 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Ana3ºBimestre.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Ana3ºBimestre.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Ana3ºBimestre.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\obj\Debug\Ana3ºBimestre.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\obj\Debug\Ana3ºBimestre.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Ana3ºBimestre\Ana3ºBimestre\obj\Debug\Ana3ºBimestre.pdb
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\ApplicationInsights.config
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\csc.exe
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\vbc.exe
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\VBCSCompiler.exe
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Ana3ºBimestre.dll.config
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Ana3ºBimestre.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Ana3ºBimestre.pdb
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.Web.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.ApplicationInsights.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Helpers.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Mvc.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Razor.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Deployment.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Razor.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.Web.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.ApplicationInsights.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Razor.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Deployment.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Webpages.Razor.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Helpers.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\bin\System.Web.Mvc.xml
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\obj\Debug\Ana3ºBimestre.csprojResolveAssemblyReference.cache
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\obj\Debug\Ana3ºBimestre.dll
+M:\DSW\Ana3ºBimestre\Ana3ºBimestre\obj\Debug\Ana3ºBimestre.pdb
