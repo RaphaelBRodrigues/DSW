@@ -1,0 +1,216 @@
+﻿body {
+}
+
+}
+.cab{
+ font-family:Calibri;
+    font-size:18px;
+
+}
+.logo {
+    background-color:#6a00d4;
+    background-image: url('Imagens/logo.jpg');
+    height:64px;
+    width:252px;
+    margin-left:10px;
+    float:left;
+}
+.home{
+    margin-right:22px;
+    color:#cf9455;
+    margin-top:25px;
+    float:left;
+    margin-left:160px;
+}
+.aboutus{
+    margin-right:22px;
+    float:left;
+     margin-top:25px;
+}
+.practiceareas{
+    margin-right:22px;
+    float:left;
+     margin-top:25px;
+}
+.attorneys{
+    margin-right:22px;
+    float:left;
+     margin-top:25px;
+}
+.blog{
+    margin-right:22px;
+    float:left;
+     margin-top:25px;
+}
+.joomla{
+    margin-right:22px;
+    float:left;
+     margin-top:25px;
+}
+.contact {
+    float:left;
+margin-top:25px;
+}
+.espaço{
+    color:#ffffff;
+    margin-bottom:60px;
+
+}
+.ta {
+ margin-left:-10px;
+       background-color: #000000;
+    margin-right:100px;
+    margin-top: 2px;
+    height: 565px;
+    width: 1352px;
+    background-image: url('Imagens/decoracao-advocacia-4.jpg');
+}
+
+.txtprincipal{
+margin-top:-450px;
+font-size:60px;
+color:#ffffff;
+margin-left:50px;
+
+
+}
+.txtprincipal2{
+font-weight:bold;
+font-family:Calibri;
+font-size:50px;
+color:#0d0e10;
+margin-left:50px;
+
+}
+.read{
+    color:#ffffff;
+    width:160px;
+    height:40px;
+    padding-top:20px;
+    padding-left:50px;
+    font-family:Arial;
+    background-color:#cf9455;
+    margin-top:80px;
+    margin-left:50px;
+    font-weight:bold
+
+}
+.sed{
+    color:#868686;
+    font-size:20px;
+    margin-left:50px;
+    height:50px;
+    width:600px;
+    color:#ffffff;
+}
+.negro{
+    background-color:#222222;
+    width: 1352px;
+    margin-top:130px;
+    height:120px;
+   margin-left:-10px;
+}
+.txtnegro{
+    margin-top:-90px;
+color:#e0e5e3;
+margin-left:50px;
+font-weight:bold;
+font-family:Arial;
+font-size:27px;
+}
+.baixonegro{
+    font-size:16px;
+    margin-left:50px;
+    margin-top:10px;
+color:#e0e5e3;
+}
+.botao{
+    color:#ffffff;
+    width:240px;
+    height:40px;
+    padding-top:20px;
+    padding-left:45px;
+    font-family:Arial;
+    background-color:#cf9455;
+    margin-top:-50px;
+    margin-left:950px;
+    font-weight:bold;
+}
+.our{
+margin-top:100px;
+font-weight:bold;
+margin-left:550px;
+font-size:30px;
+}
+.imgs{
+margin-top:70px;
+margin-left:200px;
+}
+.buimg {
+    background-image: url('Imagens/business_icon.jpg');
+    height:36px;
+    width:40px;
+    float:left;
+    margin-right:400px;
+}
+.crimg {
+    background-image: url('Imagens/criminal_icon.jpg');
+    height:32px;
+    width:50px;
+    margin-right:450px;
+     float:left;
+}
+.faimg {
+    margin-left:990px;
+    height:44px;
+    width:50px;
+    background-image: url('Imagens/family_icon.jpg');
+}
+.Bu{
+    color:#222222;
+    font-size:25px;
+    margin-left:150px;
+    margin-top:10px;
+}
+.Cr{
+    color:#222222;
+    font-size:25px;
+    margin-left:600px;
+    margin-top:-30px;
+}
+.Fa{
+    color:#222222;
+    font-size:25px;
+    margin-left:1150px;
+    margin-top:-30px;
+}
+.ue{
+    margin-left:-8px;
+}
+.texto{
+margin-left:20px;
+margin-top:15px;
+width:400px;
+color:#868686;
+font-size:20px;
+}
+.texto2{
+margin-left:20px;
+margin-top:15px;
+width:400px;
+color:#868686;
+font-size:20px;
+ margin-left:500px;
+    margin-top:-80px;
+}
+.texto3{
+margin-left:20px;
+margin-top:15px;
+width:360px;
+color:#868686;
+font-size:20px;
+ margin-left:990px;
+    margin-top:-70px;
+
+}
+
