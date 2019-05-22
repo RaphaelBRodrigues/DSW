@@ -1,0 +1,238 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\DSW2.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\DSW2.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\DSW2.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\obj\Debug\DSW2.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\obj\Debug\DSW2.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW2\DSW2\obj\Debug\DSW2.pdb
+M:\DSW2\DSW2\bin\ApplicationInsights.config
+M:\DSW2\DSW2\bin\roslyn\csc.exe
+M:\DSW2\DSW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW2\DSW2\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW2\DSW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW2\DSW2\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW2\DSW2\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW2\DSW2\bin\roslyn\vbc.exe
+M:\DSW2\DSW2\bin\roslyn\VBCSCompiler.exe
+M:\DSW2\DSW2\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW2\DSW2\bin\DSW2.dll.config
+M:\DSW2\DSW2\bin\DSW2.dll
+M:\DSW2\DSW2\bin\DSW2.pdb
+M:\DSW2\DSW2\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW2\DSW2\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW2\DSW2\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW2\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW2\DSW2\bin\Microsoft.AI.Web.dll
+M:\DSW2\DSW2\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW2\DSW2\bin\Microsoft.ApplicationInsights.dll
+M:\DSW2\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW2\DSW2\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW2\DSW2\bin\System.Web.Helpers.dll
+M:\DSW2\DSW2\bin\System.Web.Mvc.dll
+M:\DSW2\DSW2\bin\System.Web.Razor.dll
+M:\DSW2\DSW2\bin\System.Web.Webpages.Deployment.dll
+M:\DSW2\DSW2\bin\System.Web.Webpages.dll
+M:\DSW2\DSW2\bin\System.Web.Webpages.Razor.dll
+M:\DSW2\DSW2\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW2\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW2\DSW2\bin\Microsoft.AI.Web.xml
+M:\DSW2\DSW2\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW2\DSW2\bin\Microsoft.ApplicationInsights.xml
+M:\DSW2\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW2\DSW2\bin\System.Web.Razor.xml
+M:\DSW2\DSW2\bin\System.Web.Webpages.xml
+M:\DSW2\DSW2\bin\System.Web.Webpages.Deployment.xml
+M:\DSW2\DSW2\bin\System.Web.Webpages.Razor.xml
+M:\DSW2\DSW2\bin\System.Web.Helpers.xml
+M:\DSW2\DSW2\bin\System.Web.Mvc.xml
+M:\DSW2\DSW2\obj\Debug\DSW2.dll
+M:\DSW2\DSW2\obj\Debug\DSW2.pdb
+M:\DSW2\DSW2\obj\Debug\DSW2.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\ApplicationInsights.config
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\csc.exe
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\vbc.exe
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\VBCSCompiler.exe
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\DSW2.dll.config
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\DSW2.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\DSW2.pdb
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.Web.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.ApplicationInsights.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Helpers.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Mvc.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Razor.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Webpages.Deployment.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Webpages.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Webpages.Razor.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.Web.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.ApplicationInsights.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Razor.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Webpages.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Webpages.Deployment.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Webpages.Razor.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Helpers.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\bin\System.Web.Mvc.xml
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\obj\Debug\DSW2.dll
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\obj\Debug\DSW2.pdb
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\obj\Debug\DSW2.csprojAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\obj\Debug\DSW2.csproj.CoreCompileInputs.cache
+M:\DSW 2º&3ºBimestre\DSW2\DSW2\obj\Debug\DSW2.csproj.CopyComplete
+M:\DSW 2º&3ºBimestre\= DSW2 =\DSW2\obj\Debug\DSW2.csprojAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\= DSW2 =\DSW2\obj\Debug\DSW2.csproj.CoreCompileInputs.cache
+M:\DSW 2º&3ºBimestre\= DSW2 =\DSW2\obj\Debug\DSW2.dll
+M:\DSW 2º&3ºBimestre\= DSW2 =\DSW2\obj\Debug\DSW2.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\ApplicationInsights.config
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\csc.exe
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\vbc.exe
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\VBCSCompiler.exe
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\DSW2.dll.config
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\DSW2.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\DSW2.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.Web.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.ApplicationInsights.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Helpers.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Mvc.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Razor.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Webpages.Deployment.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Webpages.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Webpages.Razor.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.Web.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.ApplicationInsights.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Razor.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Webpages.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Webpages.Deployment.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Webpages.Razor.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Helpers.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\bin\System.Web.Mvc.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\obj\Debug\DSW2.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\obj\Debug\DSW2.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\obj\Debug\DSW2.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\obj\Debug\DSW2.csprojAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 =\DSW2\obj\Debug\DSW2.csproj.CoreCompileInputs.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\obj\Debug\DSW2.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\obj\Debug\DSW2.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\obj\Debug\DSW2.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\ApplicationInsights.config
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\csc.exe
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\vbc.exe
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\VBCSCompiler.exe
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\DSW2.dll.config
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\DSW2.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\DSW2.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.Web.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.ApplicationInsights.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Helpers.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Mvc.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Razor.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Webpages.Deployment.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Webpages.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Webpages.Razor.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.Web.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.ApplicationInsights.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Razor.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Webpages.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Webpages.Deployment.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Webpages.Razor.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Helpers.xml
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW2 = CENTRALIZADO PRONTO\DSW2\bin\System.Web.Mvc.xml
