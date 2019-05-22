@@ -1,0 +1,66 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Leticia.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Leticia.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Leticia.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\obj\Debug\Leticia.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\obj\Debug\Leticia.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\Leticia\Leticia\obj\Debug\Leticia.pdb
+M:\Leticia\Leticia\bin\ApplicationInsights.config
+M:\Leticia\Leticia\bin\roslyn\csc.exe
+M:\Leticia\Leticia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Leticia\Leticia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Leticia\Leticia\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Leticia\Leticia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Leticia\Leticia\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Leticia\Leticia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Leticia\Leticia\bin\roslyn\System.Collections.Immutable.dll
+M:\Leticia\Leticia\bin\roslyn\System.Reflection.Metadata.dll
+M:\Leticia\Leticia\bin\roslyn\vbc.exe
+M:\Leticia\Leticia\bin\roslyn\VBCSCompiler.exe
+M:\Leticia\Leticia\bin\roslyn\VBCSCompiler.exe.config
+M:\Leticia\Leticia\bin\Leticia.dll.config
+M:\Leticia\Leticia\bin\Leticia.dll
+M:\Leticia\Leticia\bin\Leticia.pdb
+M:\Leticia\Leticia\bin\Microsoft.AI.Agent.Intercept.dll
+M:\Leticia\Leticia\bin\Microsoft.AI.DependencyCollector.dll
+M:\Leticia\Leticia\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\Leticia\Leticia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\Leticia\Leticia\bin\Microsoft.AI.Web.dll
+M:\Leticia\Leticia\bin\Microsoft.AI.WindowsServer.dll
+M:\Leticia\Leticia\bin\Microsoft.ApplicationInsights.dll
+M:\Leticia\Leticia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Leticia\Leticia\bin\Microsoft.AI.DependencyCollector.xml
+M:\Leticia\Leticia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\Leticia\Leticia\bin\Microsoft.AI.Web.xml
+M:\Leticia\Leticia\bin\Microsoft.AI.WindowsServer.xml
+M:\Leticia\Leticia\bin\Microsoft.ApplicationInsights.xml
+M:\Leticia\Leticia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Leticia\Leticia\obj\Debug\Leticia.csprojResolveAssemblyReference.cache
+M:\Leticia\Leticia\obj\Debug\Leticia.dll
+M:\Leticia\Leticia\obj\Debug\Leticia.pdb

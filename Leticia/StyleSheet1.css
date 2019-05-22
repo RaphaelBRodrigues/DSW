@@ -1,0 +1,338 @@
+﻿body {
+    
+}
+.logo {
+    margin-top:-00px;
+    height:52px;
+    width:186px;
+    background-image: url('Imagens/Logo.JPG');
+}
+.home{
+    margin-left:400px;
+    font-weight:bold;
+    font-family:Calibri;
+       color:#ffffff;
+    font-size:20px;
+    margin-top:-35px;
+}
+.pricing{
+    margin-left:500px;
+    font-weight:bold;
+    font-family:Calibri;
+       color:#ffffff;
+    font-size:20px;
+    margin-top:-24px;
+}
+.about{
+    margin-left:600px;
+    font-weight:bold;
+    font-family:Calibri;
+       color:#ffffff;
+    font-size:20px;
+    margin-top:-24px;
+}
+.services{
+    margin-left:720px;
+    font-weight:bold;
+    font-family:Calibri;
+       color:#ffffff;
+    font-size:20px;
+    margin-top:-25px;
+}
+.contact{
+    margin-left:820px;
+    font-weight:bold;
+    font-family:Calibri;
+       color:#ffffff;
+    font-size:20px;
+    margin-top:-25px;
+}
+.find{
+    background-color:#eeeeee;
+    margin-left:1000px;
+ 
+    font-family:Calibri;
+       color:#ff6445;
+    font-size:19px;
+    height:40px;
+    width:130px;
+    box-sizing:border-box;
+    padding:8px 0px 0px 14px;
+    border-radius:5px;
+    margin-top:-35px;
+}
+.laran{
+    margin-top:-629px;
+    margin-left:-10px;
+    background-color:#ff6445;
+    width:1350px;
+    height:70px;
+    margin-bottom:-65px;
+}
+.cachorro {
+    background-repeat:no-repeat;
+    
+    height: 650px;
+    margin-top:-29px;
+    margin-left:-7px;
+    width:1368px;
+    background-size:1348px;
+    background-image: url('Imagens/Foto-Texto-4.jpg');
+}
+.we{
+    margin-top:100px;
+    margin-left:985px;
+    color:#252b3b;
+    font-family:Calibri;
+    font-size:55px;
+    font-weight:bold;
+
+}
+.txt{
+      font-family:Calibri;
+    font-size:85px;
+    font-weight:bold;
+    color:#ff6445;
+    margin-left:950px;
+
+}
+.txtb{
+    background-color:#ff6445;
+    height:280px;
+    color:#ffffff;
+    padding:20px;
+    box-sizing:border-box;
+    width:680px;
+    font-size:18px;
+    font-family:Calibri;
+    margin-left:650px;
+    font-weight:bold;
+}
+.bot{
+        background-color:#eeeeee;
+    margin-left:940px;
+    
+    font-family:Calibri;
+       color:#000000;
+    font-size:24px;
+    height:50px;
+    padding-top:8px;
+    padding-left:45px;
+    width:320px;
+    box-sizing:border-box;
+   
+    border-radius:5px;
+    margin-top:-85px;
+    margin-bottom:50px;
+}
+.azul{
+    background-color:#252b3b;
+    width:1351px;
+    height:130px;
+    margin-left:-10px;
+}
+.png1 {
+    margin-left:100px;
+    margin-top:-100px;
+    height:74px;
+    width:88px;
+    background-image: url('Imagens/1.png');
+}
+.u1{
+    background-color:#ff6445;
+    margin-top:-80px;
+    font-size:25px;
+    height:40px;
+    width:40px;
+    color:#fff;
+    box-sizing:border-box;
+    padding:5px 0px 0px 14px;
+    margin-left:200px;
+    border-radius:100px;
+}
+.png2 {
+    background-repeat:no-repeat;
+    margin-left: 650px;
+    margin-top: -40px;
+    height: 74px;
+    background-image: url('Imagens/2.png');
+    width: 88px;
+}
+.u2{
+    background-color:#ff6445;
+    margin-top:-75px;
+    font-size:25px;
+    height:40px;
+    width:40px;
+    color:#fff;
+    box-sizing:border-box;
+    padding:5px 0px 0px 14px;
+    margin-left:720px;
+    border-radius:100px;
+}
+.png3 {
+    background-repeat: no-repeat;
+    margin-left: 1080px;
+    margin-top: -40px;
+    height: 74px;
+    background-image: url('Imagens/3.png');
+    width: 120px;
+}
+.u3{
+    background-color:#ff6445;
+    margin-top:-75px;
+    color:#fff;
+    font-size:25px;
+    height:40px;
+    width:40px;
+    box-sizing:border-box;
+    padding:5px 0px 0px 14px;
+    margin-left:1200px;
+    border-radius:100px;
+}
+.RESERVE{
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:35px;
+    margin-left:200px;
+}
+.MATCH{
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:35px;
+    margin-top:-40px;
+    margin-left:725px;
+}
+.RELAX{
+    color:#ffffff;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:35px;
+    margin-top:-45px;
+    margin-left:1205px;
+}
+.tra{
+    margin-left:120px;
+    margin-top:80px;
+    height:60px;
+    width:5px;
+   background-color:#ff6445
+}
+.our{
+    margin-left:140px;
+    margin-top:-60px;
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:50px;
+    color:#252b3b
+}
+.por{
+    color:#ff6445;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:50px;
+    margin-top:-60px;
+    margin-left:230px;
+}
+.img1 {
+    margin-left:100px;
+    margin-top:50px;
+    width: 450px;
+    height: 200px;
+    background-image: url('Imagens/dog-exam2.jpg');
+}
+.cor1{
+    margin-left:100px;
+      margin-top:-200px;
+    width: 450px;
+    height: 200px;
+    background-color:rgba(255, 106, 0,0.75);
+}
+.ti{
+     margin-left:200px;
+      margin-top:-190px;
+      color:#ffffff;
+      font-family:Calibri;
+      font-weight:bold;
+      font-size:30px;
+
+}
+.txt1{
+       margin-left:-670px;
+      margin-top:-00px;
+      font-size:15px;
+      font-family:Calibri;
+      font-weight:bold; 
+      text-align:center;
+ 
+    color:#ffffff;
+}
+.img2 {
+    background-repeat: no-repeat;
+    margin-left: 550px;
+    margin-top: -193px;
+    width: 450px;
+    background-image: url('Imagens/pet-surgery2.jpg');
+    height: 200px;
+    
+}
+.cor2{
+     margin-left: 550px;
+    margin-top: -200px;
+    width: 400px;
+    height: 200px;
+    background-color:rgba(255, 106, 0,0.75);
+}
+.ti2{
+     margin-left: 630px;
+    margin-top: -193px;
+      color:#ffffff;
+      font-family:Calibri;
+      font-weight:bold;
+      font-size:30px;
+
+}
+.txt2{
+      margin-left: 190px;
+    margin-top: -px;
+      font-size:15px;
+      font-family:Calibri;
+      font-weight:bold; 
+      text-align:center;
+ 
+    color:#ffffff;
+}
+.img3 {
+    margin-left: 700px;
+    margin-top: 50px;
+    width: 449px;
+    height: 200px;
+    background-image: url('Imagens/img2.jpg');
+}
+.cor3{
+  margin-left: 950px;
+    margin-top: -190px;
+    width: 410px;
+    height: 200px;
+    background-color:rgba(255, 106, 0,0.75);
+}
+.ti3{
+     margin-left:370px;
+      margin-top:-190px;
+      color:#ffffff;
+      font-family:Calibri;
+      font-weight:bold;
+      font-size:30px;
+
+}
+.txt3{
+       margin-left:-320px;
+      margin-top:-00px;
+      font-size:15px;
+      font-family:Calibri;
+      font-weight:bold; 
+      text-align:center;
+     color:#ffffff;
+}
