@@ -1,0 +1,60 @@
+﻿body {
+    transition-duration: 1s;
+}
+#lead:hover{
+    color:white;
+ 
+}
+#easy:hover{
+    color:#d6a76a
+}
+#what:hover{
+    color:#d6a76a;
+}
+#no:hover{
+    color:#d6a76a;
+}
+#bitcoin:hover {
+    color: #d6a76a;
+}
+#bod{
+    transition-duration:1s;
+}
+#few:hover{
+    color: #d6a76a;
+}
+#bitcoin2:hover {
+    color: #d6a76a;
+}
+#bitcoin3:hover {
+    color: #d6a76a;
+}
+/*
+#g1{
+    margin-left:auto;
+    margin-right:auto;
+    width:1358px;
+    background-color:blue;
+    height:8000px;
+}
+#g2{
+    margin-left:auto;
+    margin-right:auto;
+    width:1358px;
+    background-color:blue;
+    height:8000px;
+}
+#g3{
+    margin-left:auto;
+    margin-right:auto;
+    width:1358px;
+    background-color:blue;
+    height:8000px;
+}
+#g4{
+    margin-left:auto;
+    margin-right:auto;
+    width:1358px;
+    background-color:blue;
+    height:8000px;
+}*/

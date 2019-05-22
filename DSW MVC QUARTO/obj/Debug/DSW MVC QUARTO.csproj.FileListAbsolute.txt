@@ -1,0 +1,201 @@
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\ApplicationInsights.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\csc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\System.Collections.Immutable.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\vbc.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll.config
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.pdb
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Web.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Helpers.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Mvc.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Web.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Helpers.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Mvc.xml
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+c:\users\raphael.rodrigues.a3\documents\visual studio 2015\Projects\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\ApplicationInsights.config
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\csc.exe
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\vbc.exe
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll.config
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.pdb
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Web.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Helpers.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Mvc.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Razor.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Web.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Razor.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Helpers.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Mvc.xml
+M:\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\ApplicationInsights.config
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\csc.exe
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\vbc.exe
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll.config
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Web.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Helpers.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Mvc.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Razor.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.Web.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Razor.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Helpers.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\bin\System.Web.Mvc.xml
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\DSW MVC QUARTO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\ApplicationInsights.config
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\csc.exe
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\System.Collections.Immutable.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\System.Reflection.Metadata.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\vbc.exe
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\roslyn\VBCSCompiler.exe.config
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll.config
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.Agent.Intercept.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.Web.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.Web.Infrastructure.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Helpers.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Mvc.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Razor.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Webpages.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.DependencyCollector.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.Web.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.AI.WindowsServer.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.ApplicationInsights.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Razor.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Webpages.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Webpages.Deployment.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Webpages.Razor.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Helpers.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\bin\System.Web.Mvc.xml
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csproj.CoreCompileInputs.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO =\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csproj.CoreCompileInputs.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = 1G\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = 1G\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csproj.CoreCompileInputs.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = 1G\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = 1G\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = CENTRALIZADO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = CENTRALIZADO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = CENTRALIZADO\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = CENTRALIZADO LUCAS\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.csprojResolveAssemblyReference.cache
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = CENTRALIZADO LUCAS\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.dll
+M:\DSW 2º&3ºBimestre\QUARTOO\= DSW MVC QUARTO = CENTRALIZADO LUCAS\DSW MVC QUARTO\obj\Debug\DSW MVC QUARTO.pdb

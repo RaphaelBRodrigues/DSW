@@ -1,0 +1,479 @@
+﻿body {
+  /*  background-image:url(http://s2.glbimg.com/MsKi-3M8pNWDKO4EsPMPb623G0Q=/e.glbimg.com/og/ed/f/original/2014/03/20/dvdp2.gif);*/
+    background-size:5050px;
+    background-color:#f6f6f6; 
+    margin:0;
+}
+a{
+    color:inherit;
+    text-decoration:none;
+}
+#logo{
+    margin-left:60px;
+    margin-top:15px;
+    transition-duration:2.5s;
+}
+#logo:hover{
+    transform:rotate(180deg);
+}
+.cab{
+    margin-top:0px;
+    z-index:1;
+    font-family:Calibri;
+    font-size:20px;
+    width:100%;
+    background-color:white;
+    font-weight:bold;
+    height:80px;
+    position:fixed;
+}
+#c1{
+    margin-top:1px;
+    height:80px;
+    margin-left:350px;
+    padding-top:25px;
+       box-sizing:border-box;
+       border-bottom:4px solid rgba(0,0,0,0);
+      
+       transition-duration:0.5s;
+    position:absolute;
+}
+#c1:hover{
+           border-bottom:4px solid #ffc26c;
+
+}
+#c2 {
+    height: 80px;
+    border-bottom: 4px solid #ffc26c;
+    margin-left: 500px;
+    padding-top: 25px;
+    margin-top: 1px;
+    box-sizing: border-box;
+    transition-duration: 0.5s;
+    position: absolute;
+}
+#c2:hover{
+           border-bottom:4px solid #ffc26c;
+
+}
+#c3{
+    height:80px;
+    width:78px;
+    margin-left:650px;
+    padding-top:25px;        margin-top:1px;
+
+
+       box-sizing:border-box;
+       border-bottom:4px solid rgba(0,0,0,0);
+      
+       transition-duration:0.5s;
+    position:absolute;
+}
+#c3:hover{
+           border-bottom:4px solid #ffc26c;
+
+}
+#c4{
+    height:80px;        margin-top:1px;
+
+
+    margin-left:810px;
+    padding-top:25px;
+       box-sizing:border-box;
+       border-bottom:4px solid rgba(0,0,0,0);
+      
+       transition-duration:0.5s;
+    position:absolute;
+}
+#c4:hover{
+           border-bottom:4px solid #ffc26c;
+
+}
+#roxo{
+    height:600px;
+    background-image:url('https://i.pinimg.com/originals/3b/4a/e5/3b4ae5326298ade2f430829d84963171.gif');
+    background-size:550px;
+        z-index:2;
+    margin-top:80px;
+   opacity:1;
+    background-color:rgba(75, 67, 177, 0.96);
+    box-sizing:border-box;
+    width:650px;
+   
+}
+#faq-fundo{
+    width:100%;
+    height:450px;
+}
+
+#faq-titulo{
+    margin-top:-350px;
+    color:white;
+    text-align:center;
+    font-family:Calibri;
+    font-size:65px;
+    font-weight:bold;
+}
+#faq-texto{
+    color:white;
+    text-align:center;
+    font-family:Calibri;
+    font-size:25px;
+}
+#faq-bot1{
+    margin-left:525px;
+    margin-top:65px;
+    color:white;
+            transition-duration:1s;
+
+    padding-top:15px;
+            font-weight:bold;
+            background-color:#292b3a;
+            height:50px;
+            width:100px;
+    text-align:center;
+    box-sizing:border-box;
+    position:absolute;
+    font-family:Calibri;
+}
+#faq-bot2{
+    color:white;
+        margin-left:625px;
+        margin-top:65px;
+        font-family:Calibri;
+        font-weight:bold;
+    text-align:center;
+     color:white;
+    padding-top:15px;
+            font-weight:bold;
+            background-color:#292b3a;
+            height:50px;
+            width:100px;
+    text-align:center;        transition-duration:1s;
+
+    box-sizing:border-box;
+    position:absolute;
+    font-family:Calibri;
+}
+
+#faq-bot3{
+             margin-left:725px;
+        margin-top:65px;
+            font-weight:bold;
+             color:white;
+             padding-top:15px;
+            font-weight:bold;
+            background-color:#292b3a;
+            height:50px;
+            width:100px;
+    text-align:center;
+    box-sizing:border-box;
+    position:absolute;
+    font-family:Calibri;
+    color:white;
+        font-family:Calibri;
+        transition-duration:1s;
+    text-align:center;
+}
+#faq-bot1:hover{
+    color:#292b3a;
+    background-color:#ffc26c;
+}
+#faq-bot2:hover{
+    color:#292b3a;
+    background-color:#ffc26c;
+}
+#faq-bot3:hover{
+    color:#292b3a;
+    background-color:#ffc26c;
+}
+#gen:hover{
+        border-bottom:5px solid #ffc26c;
+}
+#gen{
+    margin-left:250px;
+    margin-top:200px;
+  color:#292b3a;
+  font-family:Calibri;
+  transition-duration:1s;
+  font-size:25px;
+    height:50px;
+    width:185px;
+    border-bottom:5px solid #ffc26c;
+}
+
+#gen2:hover{
+        border-bottom:5px solid #ffc26c;
+}
+#gen2{
+    margin-left:600px;
+    margin-top:-80px;
+  color:#292b3a;
+  font-family:Calibri;
+  transition-duration:1s;
+  font-size:25px;
+    height:50px;
+    width:185px;
+    border-bottom:5px solid gray;
+}
+
+#gen3:hover{
+        border-bottom:5px solid #ffc26c;
+}
+#gen3 {
+    margin-left: 950px;
+    margin-top: -80px;
+    color: #292b3a;
+    font-family: Calibri;
+    transition-duration: 1s;
+    font-size: 25px;
+    height: 50px;
+    width: 185px;
+    border-bottom: 5px solid gray;
+}
+
+.num{
+    color:#ffc26c;
+    font-family:Calibri;
+    font-size:40px;
+    margin-top:100px;
+    margin-left:120px;
+}
+#text1{
+    color:gray;
+    font-family:Calibri;
+    margin-top:-80px;
+    margin-left:200px;
+    font-size:15px;
+}
+#nu2{
+    margin-top:50px;
+
+}
+#nu4{
+    margin-left:750px;
+    margin-top:-450px;
+}
+#nu5{
+    margin-left:750px;
+}
+.titpg2{
+    font-size:30px;
+    font-family:Calibri;
+    font-weight:bold;
+    color:black;
+    margin-top:-20px;
+    margin-left:180px;
+}
+#tit2pg2{
+    position:absolute;
+    margin-top:40px;
+}
+
+#tit2pg3{
+    margin-top:115px;
+}
+#tit2pg4{
+    margin-left:800px;
+    margin-top:-430px;
+}
+#tit2pg5{
+    margin-left:800px;
+    margin-top:115px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fim{
+    margin-top:300px;
+    background-color:#0c1523;
+    width:100%;
+    height:350px;
+}
+#logo-fim{
+    margin-left:100px;
+    margin-top:50px;
+}
+#txt1-fim{
+    color:#7f8089;
+    font-family:Calibri;
+    font-size:16px;
+    margin-top:-48px;
+    margin-left:280px;
+}
+#sign{
+    color:white;
+    font-family:Calibri;
+    font-weight:bold;
+    margin-top:-50px;
+    font-size:25px;
+    margin-left:800px;
+}
+#input2::-webkit-input-placeholder{
+        color:#ffc26c;
+        font-family:Calibri;
+        font-size:25px;
+
+}
+#input2{
+    margin-top:-205px;
+    height:50px;
+    width:300px;
+    background-color:#252d39;
+    margin-left:800px;
+}
+#botao-fim{
+  border-radius:0px;
+    padding-left:40px;
+    padding-top:13px;
+        height:55px;
+            margin-left:1103px;
+    margin-top:-55px;
+
+    background-color:#676a72;
+    color:white;
+}
+#conect{
+    color:gray;
+    font-family:Calibri;
+    font-style:italic;
+    font-size:25px;
+    margin-left:100px;
+
+}
+.icon{
+    height:50px;
+    position:absolute;
+    margin-top:-65px;
+    margin-left:400px;
+}
+#i1{
+    height:50px;
+}
+#i2{
+        margin-left:480px;
+
+}
+#i3{
+        margin-left:560px;
+
+}
+#subirri{
+    margin-top:-26px;
+    margin-left:15px;
+    background-color:#ffc26c;
+    color:white;
+    font-size:45px;
+    height:90px;
+    position:absolute;
+    width:90px;
+    box-sizing:border-box;
+    padding-left:22px;
+    border-radius:50px;
+        border:2px solid #ffc26c;
+
+    padding-top:20px;
+}
+#subirri:hover{
+    color:#ffc26c;
+    background-color:rgba(0,0,0,0);
+    border:2px solid #ffc26c;
+}
+#what:hover{
+    color:blue;
+}
+#no:hover{
+    color:blue;
+}
+#bitcoin:hover{    color:blue;
+}
+.caixa1:hover{
+    border:1px solid yellow;
+}
+.caixa2:hover{
+    border:1px solid yellow;
+}
+.caixa3:hover{
+    border:1px solid yellow;
+}
+.caixa4:hover{
+    border:1px solid yellow;
+}
+.material-icons:hover{
+    color:yellow;
+}
+#bot2:hover{
+    color:white;
+    background-color:black;
+
+}
+#few:hover{    color:blue;
+}
+#bitcoin2:hover{    color:blue;
+}
+#bitcoin3:hover{    color:blue;
+}
+
+.botaamarelo{
+    height:60px;
+    color:#ffefd8;
+    font-family:Calibri;
+       font-size:20px;
+       border-radius:5px;
+    width:170px;
+    background-color:#d6a76a;
+    transition-duration:1s;
+    border:2px solid rgba(0,0,0,0);
+    position:absolute;
+    box-sizing:border-box;
+}
+
+#subiri:hover {
+    color: #ffc26c;
+    background-color: rgba(0,0,0,0);
+    border: 2px solid #ffc26c;
+}
+
+.input {
+    transition-duration:0.58s;
+    background-color:white;
+    border:2px solid rgba(0,0,0,0);
+}
+.input:hover{
+        border:2px solid #ffc26c;
+
+}
+
+#botao-fim{
+    border-radius:0px;
+    padding-left:40px;
+    padding-top:13px;
+        height:55px;
+            margin-left:1103px;
+    margin-top:-55px;
+
+    background-color:#676a72;
+    color:white;
+}
+.botaamarelo:hover{
+    color:#ffc26c;
+    background-color:rgba(0,0,0,0);
+    border:2px solid #ffc26c;
+
+}
+
+#g2{
+    margin-left:auto;
+    margin-right:auto;
+    width:1350px;
+}
