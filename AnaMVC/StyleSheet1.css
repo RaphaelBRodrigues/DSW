@@ -1,0 +1,156 @@
+﻿body {
+   
+}
+.negro {
+    background-color: #191919;
+    height: 78px;
+    width: 1348px;
+    margin-left: -10px;
+}
+.tudo{
+    margin-top:-9px;
+}
+#logo {
+    margin-top:-60px;
+    height: 90px;
+    background-repeat:no-repeat;
+    width: 150px;
+    background-image: url('img/logo-light.png');
+    transition-duration:2s;
+}
+#logo:hover{
+    margin-left:200px;
+}
+#home{
+    font-weight:bold;
+    font-family:Calibri;
+    color:white;
+    font-size:18px;
+    margin-top:-80px;
+    margin-left:400px;
+
+}
+#features {
+    font-weight: bold;
+    font-family: Calibri;
+    color: white;
+    font-size: 18px;
+    margin-top: -39px;
+    margin-left: 490px;
+}
+.teste{
+ font-weight: bold;
+    font-family: Calibri;
+    color: white;
+    font-size: 18px;
+    margin-top: -40px;
+    margin-left: 610px;
+}
+#port {
+margin-left:40px;
+}
+#blog{
+    margin-left:40px;
+    
+}
+#shop{
+    margin-left:40px;
+   
+    margin-right:40px;
+    
+
+    
+}
+.try{
+    margin-top:-40px;
+    margin-left:1160px;
+    border-radius:14px;
+    padding-top:15px;
+    background-color:#42b574;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:20px;
+    color:white;
+    height:40px;
+    width:150px;
+    background-clip:padding-box;
+    text-align:center;
+    transition-duration:1s;
+}
+.try:hover{
+    background-color:blue;
+}
+.mu{
+    background-repeat:no-repeat;
+    margin-top:8px;
+    margin-left:-10px;
+    height:948px;
+    width:1348px;
+ background-size:1348px;
+ background-image:url(img/intro-04-1920x955.jpg)
+}
+.rgba{
+    margin-left:-10px;
+    margin-top:-947.5px;
+    background-color:rgba(0, 13, 26,0.7 );
+    width:1348px;
+    height:669px;
+    
+}
+#wel{
+    color:white;
+    font-weight:bold;
+    margin-top:-470px;
+    font-family:Calibri;
+    font-size:50px;
+    text-align:center;
+}
+#the{
+    text-align:center;
+    color:white;
+    margin-top:-40px;
+    font-size:20px;
+    font-family:Calibri;
+}
+.buy{
+    margin-left:460px;
+    border:3px solid white;
+    border-radius:9px;
+    width:220px;
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    font-family:Calibri;
+    font-weight:bold;
+    font-size:20px;
+    color:white;
+    transition-duration:2s;
+    margin-top:-70px;
+
+
+}
+.buy:hover{
+    background-color:#e40000;
+}
+.try2{
+    margin-top:40px;
+    margin-left:750px;
+    
+    padding-top:15px;
+    background-color:#42b574;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:20px;
+    color:white;
+      border-radius:9px;
+    width:220px;
+    text-align:center;
+    padding-top:20px;
+    height:50px;
+    background-clip:padding-box;
+    text-align:center;
+    transition-duration:1s;
+}
+.try:hove2{
+    background-color:blue;
+}
