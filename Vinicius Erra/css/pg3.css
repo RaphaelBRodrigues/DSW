@@ -1,0 +1,273 @@
+body{
+	margin: 0;
+}
+.b{
+	background-color: #1ad1c6;
+	box-sizing: border-box;
+	height: 40px;
+	padding-top: 10px;
+	text-align:center;;
+	font-weight: bold;
+	width: 250px;
+	transition-duration: 0.5s;
+	color:white;
+}
+.b:hover{
+	color:#1ad1c6;
+	background-color: white;
+}
+a{
+	text-decoration: none;
+	color:inherit;
+
+}
+#pc{
+	width:1350px; 
+height: 500px;
+}
+#centraliz{
+	margin-left: auto;
+	width: 1350px;
+	margin-right: auto;
+		font-family: calibri;
+}
+	
+
+#cabeçalho{
+	color:white;
+	font-weight: bold;
+	height: 50px;
+	
+	background:#1ad1c6;
+	box-sizing: border-box;
+}
+#h1{	
+	height: 40px;
+	width: 120px;
+	margin-top: 5px;
+	margin-left: 120px;
+	padding-top: 10px;
+}
+#h2{
+	margin-left: 250px;
+	margin-top: 5px;
+	height: 40px;
+	width: 120px;
+}
+#h3{
+	margin-left: 380px;
+	height: 40px;
+	width: 120px;
+	margin-top: 5px;
+}
+#h4{
+	margin-left: 510px;
+	margin-top: 5px;
+	height: 40px;
+	width: 120px;
+}
+#h5{
+	margin-left: 640px;
+	margin-top: 5px;
+	height: 40px;
+	width: 120px;
+}
+#h6{
+	margin-left: 770px;
+	height: 40px;
+	width: 120px;
+	margin-top: 5px;
+}
+.cabe{
+	transition-duration: 0.3s;
+position: absolute;
+	padding-top: 10px;
+text-align: center;
+box-sizing: border-box;
+	margin-right: 60px;
+}
+.cabe:hover{
+	color:#1ad1c6;
+	background-color: white;
+}
+#lg{
+	font-size: 30px;
+	margin-left: 1080px;
+	margin-top: 10px;
+}
+
+#gamb{
+	background-color: white;
+	height: 60px;
+	background-repeat: no-repeat;
+	width: 55px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+
+	
+	background-image: url('https://livedemo00-joomla.template-help.com/joomla_prod-17802/templates/theme3610/images/logo.png');
+}
+#fast{
+	font-weight: bold;
+	margin-left: 100px;
+	margin-top: -60px;
+	font-size: 20px;
+}
+ss{
+	margin-top: -10px;
+	font-size: 15px;
+}
+omg{
+	margin-left: 600px;
+	font-size:10px;
+	margin-top: -50px;
+	position: absolute;
+	color:#1ad1c6;
+}
+#mon{
+	font-weight: bold;
+	font-size: 20px;
+	color:rgba(0,0,0,0.8);
+
+	margin-left: 650px;
+	margin-top: -50px;
+}
+#c{
+		font-weight: bold;
+	font-size: 20px;
+		margin-top: -72px;
+		position:absolute;
+	margin-left: 950px;
+	color:rgba(0,0,0,0.8);
+}
+#omg2{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: -65px;
+}
+#cinza{
+	background-color: rgba(145,145,145,0.3);
+	height: 30px;
+	box-sizing: 	border-box;	;
+	word-spacing: 	15px;
+	color:gray;
+	padding-top: 	5px;
+	padding-left: 	150px;
+}
+
+#fr{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+#fre{
+	font-weight: 	600;
+	font-size: 	20px;
+
+}
+#change{
+	font-weight: 	bold;
+	color:black;
+	font-size: 	18px;
+}
+
+#change2{
+	font-weight: 	bold;
+	color:black;
+	font-size: 	18px;
+}
+#can{
+color:gray;
+font-size: 	15px;
+}
+
+#pretto{
+	background-color:rgba(0,0,0,0.8);
+width: 1350px;
+	height: 157px;
+	margin-top: 50px;
+	
+}
+#pretto-i1{
+	background-color: #1ad1c6;
+	border-radius:250px;
+margin-top: 15px;
+color:white;
+margin-left: 50px;
+position: absolute;
+height: 120px;
+width: 120px;
+box-sizing: border-box;
+text-align: center;
+padding-top: 20px;
+font-size: 75px;
+}
+#phone{
+	font-weight: bold;
+	font-size: 20px;
+	color:white;
+	padding-top: 45px;
+	margin-left: 200px;
+}
+
+#pretto-i2{
+	background-color: #1ad1c6;
+	border-radius:250px;
+margin-top: -95px;
+color:white;
+margin-left: 500px;
+position: absolute;
+height: 120px;
+width: 120px;
+box-sizing: border-box;
+text-align: center;
+padding-top: 20px;
+font-size: 75px;
+}
+#addre{
+	font-weight: bold;
+	font-size: 20px;
+	color:white;
+	margin-top: -65px;
+	margin-left: 650px;
+	position: absolute;
+}
+
+#pretto-i3{
+	background-color: #1ad1c6;
+	border-radius:250px;
+margin-top: -95px;
+color:white;
+margin-left: 950px;
+position: absolute;
+height: 120px;
+width: 120px;
+box-sizing: border-box;
+text-align: center;
+padding-top: 20px;
+font-size: 75px;
+}
+
+#email{
+	font-weight: bold;
+	font-size: 20px;
+	color:white;
+	margin-top: -65px;
+	margin-left: 1120px;
+	position: absolute;
+}
+#pre{
+	margin-top: -16px;
+	background-color: black;
+	height: 40px;
+	box-sizing: border-box;
+	color:gray;
+}
+#dois{
+	margin-left: 150px;
+	padding-top: 10px;
+	font-size: : 20px;
+}
+#sss{
+	font-size:18px;
+}

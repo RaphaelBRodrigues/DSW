@@ -1,0 +1,46 @@
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\ApplicationInsights.config
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\csc.exe
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\vbc.exe
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\VBCSCompiler.exe
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Vinicius Erra.dll.config
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Vinicius Erra.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Vinicius Erra.pdb
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.Web.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.ApplicationInsights.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Helpers.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Mvc.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Razor.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Webpages.Deployment.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Webpages.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Webpages.Razor.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.Web.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.ApplicationInsights.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Razor.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Webpages.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Webpages.Deployment.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Webpages.Razor.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Helpers.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\bin\System.Web.Mvc.xml
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\obj\Debug\Vinicius Erra.csprojResolveAssemblyReference.cache
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\obj\Debug\Vinicius Erra.dll
+c:\users\vinicius.erra.a\documents\visual studio 2015\Projects\Vinicius Erra\Vinicius Erra\obj\Debug\Vinicius Erra.pdb
